@@ -1,0 +1,1000 @@
+Gender,qualification,occupation,internet_time_aday,Instagram,Youtube,Whatsapp,Facebook,Google,Snap chat,news_consume[Google],news_consume[Youtube],news_consume[TV],news_consume[NewsP],news_consume[Facebook],content_consume[Video],content_consume[Text],content_consume[Audio],content_consume[Meme],medium_trust[Video],medium_trust[Audio],medium_trust[Meme],medium_trust[Text],type_of_ content_trustP,type_of_ content_trustC,type_of_ content_trust S,type_of_ content_trust R,encountered_fake_ video,detect_fake_ video?,How_identify_fv[BG]?,How_identify_fv[Eye]?,How_identify_fv[lips]?,How_identify_fv[qual]?,detect_fake_ image?,How_identify_fimg[BG]?,How_identify_fimg[eye]?,How_identify_fimg[FaceE]?,How_identify_fimg[qual]?,post_v/I_social media?,How_often_post your v/i _ social_media?,Filter_apps[snap],Filter_apps[Insta],Filter_apps[B612],Filter_apps[galary],use_face swapping app?,tried_filer_celebface,1 videos/images received,Fv_voilate_persons_identity,target_fake images/videos?,tom_BF,obama_RF,obama_LF,heard_deep_fake?,srk,nawz_f,harp_R,emma_F,kevin_R,anush_F,Kajol_F,srk2_F,tom_F,will_F,emma_R,Jony_R,anan_F,nasir_F,Scores,statementby_political_leader,statementby_Celeb,statementby_religious_leader.,video/image_ true? [Political content],video/image_ true? [celeb content],video/image_ true? [Religious content],video/image_ true? [Humorous content],content_most likely to share? [Political content],content_most likely to share? [Religious content],content_most likely to share? [1 content],content_most likely to share? [Humorous content]
+Male,Graduate,Student,5,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Yes,Yes,1,0,0,1,Yes,1,0,1,1,1,Occasionally,0,0,0,0,0,0,Igored,1,0,Right,Left,Both,0,1,1,0,1,0,1,1,0,1,1,0,0,1,1,9,76%-100%,0%- 25%,76%- 100%,2,3,1,2,1,1,3,3
+Male,Jr College,Student,3,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,No,0,0,0,0,No,0,0,0,0,0,Occasionally,0,0,0,1,0,0,Read and Igored,0,0,None,Right,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,26%- 30%,26%- 50%,1,2,2,1,2,2,2,2
+Male,Graduate,Unemployed,6,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Yes,Yes,0,0,0,1,Yes,0,0,1,1,0,Not applicable,0,0,0,0,0,0,Igored,1,0,Right,Right,First,1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,5
+Male,Post Graduate,Student,5,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Yes,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,Both,Right,First,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,10,0%- 25%,0%- 25%,51%- 75%,3,5,2,2,3,3,2,5
+Male,Graduate,Private sector,6,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,Yes,Yes,1,0,1,0,Yes,1,0,1,1,1,Occasionally,0,1,0,0,0,0,Believed and shared,1,0,Left,Right,First,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,2,4,1,3,2,1,2,5
+Male,Graduate,Student,6,1,0,1,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,Yes,Maybe,1,1,1,1,Yes,1,0,0,1,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Both,None,First,0,1,1,0,0,1,1,0,0,0,0,1,0,1,1,7,26%-50%,0%- 25%,0%- 25%,3,4,3,4,1,1,1,5
+Female,Post Graduate,Student,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,Yes,Yes,1,1,1,1,Maybe,1,1,1,1,0,Not applicable,1,0,0,0,0,0,Igored,1,0,Both,Right,First,0,1,0,1,1,1,1,1,1,0,0,1,0,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,1
+Male,Post Graduate,Private sector,1,1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,Yes,Maybe,1,0,0,1,Maybe,1,0,1,1,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Both,Right,First,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,12,0%- 25%,0%- 25%,0%- 25%,2,4,1,3,4,1,1,4
+Male,Post Graduate,Student,5,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Yes,Yes,0,0,1,0,Yes,0,0,0,1,1,Occasionally,0,1,0,0,0,0,Believed and shared,1,1,Right,Left,First,0,1,1,1,0,1,1,0,0,0,1,1,1,1,1,10,26%-50%,0%- 25%,0%- 25%,2,2,2,1,2,3,2,3
+Female,School,Student,6,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,0,1,0,0,Yes,Maybe,1,0,1,0,Maybe,1,0,0,1,0,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,0,1,1,0,1,1,0,1,0,0,0,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,2,2,1,1,3,5
+Male,School,Student,3,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,Yes,Yes,0,0,1,0,Yes,0,1,1,0,1,Daily,0,0,0,1,1,1,Believed and shared,1,1,Right,None,Second,1,0,1,0,0,1,0,0,0,0,1,1,0,1,1,6,26%-50%,26%- 30%,51%- 75%,2,2,1,3,2,3,1,4
+Female,Graduate,Student,3,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,Maybe,Maybe,1,0,1,0,Maybe,0,0,1,1,0,Not applicable,1,0,0,1,0,0,Igored,1,0,None,Left,First,0,1,1,0,1,1,0,0,0,0,0,1,1,1,0,7,26%-50%,0%- 25%,0%- 25%,3,4,4,4,2,4,1,4
+Female,Graduate,Private sector,5,1,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,None,First,0,1,1,1,0,1,0,1,0,0,1,1,1,1,1,10,26%-50%,26%- 30%,26%- 50%,2,2,2,2,2,2,2,2
+Female,Post Graduate,Student,3,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Maybe,Yes,1,0,0,0,Yes,1,0,0,0,0,Not applicable,1,0,0,0,0,0,Believed and shared,0,0,Right,Right,First,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,6,51%-75%,31%- 75%,26%- 50%,2,3,3,2,2,2,1,2
+Male,Graduate,Student,6,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,0,Not applicable,0,0,0,0,1,1,Read and Igored,1,0,Both,Both,Both,1,1,1,0,1,0,1,1,1,1,1,0,0,1,1,10,76%-100%,76%- 100%,76%- 100%,1,1,1,1,1,1,1,1
+Female,Graduate,Private sector,3,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,Maybe,Yes,0,1,0,1,Yes,0,1,1,1,0,Not applicable,1,0,0,0,0,0,Read and Igored,0,1,Both,None,First,0,1,0,1,0,1,0,0,0,0,0,1,1,0,1,6,0%- 25%,0%- 25%,26%- 50%,1,4,3,5,3,2,4,4
+Male,Graduate,Private sector,5,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Maybe,Yes,1,0,0,0,Yes,1,0,0,0,1,Not applicable,0,1,0,0,0,0,Igored,0,0,Right,Left,First,0,1,1,1,1,0,1,1,1,0,0,0,1,0,1,9,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,1
+Male,Graduate,Student,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,No,Yes,0,1,0,0,No,0,0,0,0,0,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,Left,Left,None,0,1,1,1,1,1,1,1,0,0,0,1,1,1,0,10,76%-100%,31%- 75%,0%- 25%,1,3,1,3,1,1,1,1
+Female,Graduate,Private sector,6,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,Yes,Yes,0,0,0,1,Maybe,1,0,0,0,1,Occasionally,1,0,0,0,0,1,Not believed still shared,1,1,Left,Left,Both,0,1,1,0,1,0,1,1,1,1,0,1,1,1,1,11,76%-100%,0%- 25%,0%- 25%,3,1,3,1,3,1,3,1
+Female,Graduate,Student,5,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,Yes,No,0,0,0,0,Maybe,1,0,1,0,0,Not applicable,1,0,0,1,1,1,Read and Igored,1,0,Left,None,None,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,3,26%-50%,0%- 25%,0%- 25%,1,4,1,1,1,1,5,4
+Female,Graduate,Student,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,Yes,Yes,0,0,0,1,Maybe,0,0,1,0,0,Occasionally,1,0,0,0,0,0,Not believed still shared,1,0,Right,Left,First,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,7,26%-50%,0%- 25%,26%- 50%,3,3,3,3,3,2,3,3
+Female,Post Graduate,Student,6,1,1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,Yes,Maybe,1,0,1,1,Maybe,1,1,1,1,1,Occasionally,0,1,0,1,0,0,Read and forward,1,0,Left,Right,First,0,1,1,1,1,1,0,0,0,1,0,1,1,0,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,1,3,1,1,2,4
+Male,Jr College,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,Yes,Maybe,1,1,1,1,Maybe,0,1,1,1,1,Not applicable,1,0,0,1,0,0,Igored,1,0,None,Left,Second,0,1,1,1,0,1,1,0,0,1,0,1,1,0,1,9,76%-100%,0%- 25%,0%- 25%,1,2,2,3,1,3,1,5
+Female,Post Graduate,Student,5,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,Maybe,Yes,1,1,1,1,Yes,1,0,0,1,1,Occasionally,0,1,0,0,0,0,Igored,1,0,Both,None,First,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,8,0%- 25%,0%- 25%,0%- 25%,1,2,2,3,1,1,2,4
+Female,Graduate,Student,3,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,Yes,Maybe,1,0,0,0,Maybe,0,0,1,0,0,Not applicable,0,0,0,0,0,0,Read and Igored,1,0,Both,Both,Both,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,1,1,2,1,1,1,3
+Male,Jr College,Business,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,0,0,1,0,0,Read and Igored,1,0,Left,Right,None,0,1,1,0,1,1,0,0,0,0,0,1,1,0,1,7,26%-50%,0%- 25%,26%- 50%,1,3,2,3,1,3,2,3
+Male,Graduate,Private sector,3,1,1,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1,Yes,Yes,1,0,1,0,No,0,0,0,0,1,Occasionally,0,1,0,1,0,0,Believed and shared,0,0,Left,Right,Second,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,4,26%-50%,0%- 25%,0%- 25%,1,4,3,4,1,3,2,4
+Male,Graduate,Student,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,No,Yes,1,0,0,1,Maybe,1,0,0,1,1,Not applicable,0,1,0,0,0,0,Read and forward,0,0,Right,Left,Second,0,0,1,0,1,0,1,0,0,1,0,1,1,0,1,7,26%-50%,26%- 30%,51%- 75%,2,3,2,2,3,3,2,2
+Male,Graduate,Private sector,6,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Yes,Yes,0,0,0,1,Maybe,0,0,0,1,0,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,1,1,1,1,0,1,1,0,0,1,1,1,0,1,1,10,51%-75%,76%- 100%,76%- 100%,1,4,4,4,1,4,1,4
+Female,Graduate,Student,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0.5,0,Read and Igored,1,0,Left,Left,None,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,26%-50%,0%- 25%,26%- 50%,3,3,2,1,2,4,2,2
+Male,Post Graduate,Sarvice,3,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,No,Yes,0,1,1,1,Yes,1,0,1,1,1,Occasionally,0,0,0,1,1,0,Read and Igored,1,0,Right,Both,First,1,1,0,1,0,1,0,1,1,0,0,0,1,0,1,7,26%-50%,31%- 75%,26%- 50%,2,4,4,3,3,4,3,2
+Female,Jr College,Student,1,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,0,Not applicable,1,1,0,0,0,0,Read and forward,0,0,Right,None,None,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1,9,0%- 25%,0%- 25%,26%- 50%,2,3,3,2,2,3,4,2
+Female,Graduate,Student and house keeper,3,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,Yes,Maybe,1,0,1,0,Yes,1,1,1,1,0,Not applicable,0,0,0,0,0,0,Read and Igored,1,1,None,None,First,0,1,1,0,1,0,1,1,1,1,1,0,0,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,2,1,2,1,3,1,5
+Male,Post Graduate,Private sector,3,1,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,Yes,Maybe,1,0,0,0,Maybe,1,0,0,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Left,Left,Second,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,5,0%- 25%,0%- 25%,0%- 25%,1,3,2,1,1,2,2,3
+Male,Jr College,Student,5,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Maybe,Maybe,0,1,0,0,Yes,0,1,0,0,0,Not applicable,0,0,0,1,0,0,Igored,0,0,None,Left,None,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,4,26%-50%,26%- 30%,51%- 75%,1,3,3,1,1,3,1,1
+Female,Graduate,Student,5,1,1,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,1,Maybe,Maybe,1,1,1,1,Maybe,1,0,1,1,0,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,0,1,1,1,1,0,0,0,0,1,1,1,1,9,51%-75%,0%- 25%,0%- 25%,1,4,3,4,1,3,2,5
+Male,Graduate,Student,3,1,1,1,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,Maybe,Maybe,1,0,0,1,Maybe,1,1,0,1,0,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Right,Right,Both,1,1,1,1,0,1,1,1,0,0,0,1,0,0,1,8,0%- 25%,31%- 75%,26%- 50%,2,5,4,3,3,3,5,3
+Female,Graduate,Business,5,1,1,1,1,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,1,1,Maybe,Maybe,0,1,0,0,Maybe,0,0,1,1,0,Not applicable,1,0,1,0,0,0,Not believed still shared,1,1,Right,Right,None,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,1,1,1,1,4,1
+Male,Graduate,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,Yes,Yes,1,1,1,0,Yes,1,1,1,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Both,Right,First,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,11,26%-50%,0%- 25%,0%- 25%,2,4,5,5,2,5,4,5
+Male,Post Graduate,Business,3,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,Maybe,Maybe,0,0,1,0,No,0,0,0,0,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,Left,Right,First,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,5,5,5,1,3,3,3
+Male,Post Graduate,Student,5,0,1,1,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0,1,0,0,1,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,1,0,0,Read and Igored,1,0,Right,None,First,0,1,1,1,0,0,1,0,0,0,0,1,1,1,0,7,26%-50%,0%- 25%,0%- 25%,3,5,3,4,3,3,3,4
+Male,Post Graduate,Student,5,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,Yes,Maybe,0,0,1,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0.5,0,Read and Igored,1,0,Left,Right,None,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,76%-100%,0%- 25%,0%- 25%,1,4,1,5,3,5,1,5
+Male,Graduate,Private sector,5,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,Yes,Yes,1,1,0,0,Maybe,1,1,1,0,0,Not applicable,0,0,0,1,0,0,Believed and shared,1,0,Right,Left,None,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,7,0%- 25%,0%- 25%,0%- 25%,1,5,1,4,1,1,1,4
+Female,Post Graduate,Student,6,1,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,Maybe,Maybe,1,0,1,1,No,0,0,0,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Left,Left,First,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,6,26%-50%,0%- 25%,26%- 50%,1,3,2,2,2,3,1,2
+Female,Post Graduate,Private sector,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,Maybe,No,0,0,0,0,Maybe,0,0,0,1,0,Not applicable,0,0,0,1,0,0,Read and Igored,1,0,Left,Right,Second,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,51%- 75%,4,4,4,4,1,1,1,4
+Female,Post Graduate,Private sector,3,0,1,1,1,0,0,1,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,0,Yes,No,0,0,0,0,No,0,0,0,0,0,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,Both,Right,None,0,1,1,0,0,1,0,1,1,0,0,1,1,1,0,8,0%- 25%,0%- 25%,0%- 25%,1,3,1,3,1,1,2,3
+Male,Graduate,Student,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,Maybe,Yes,1,0,1,1,Maybe,1,0,1,0,1,Occasionally,0,0,0,0,0,0,Igored,1,0,Both,Right,First,0,1,1,1,0,1,1,1,0,0,0,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,3,2,4,1,1,1,5
+Female,Post Graduate,Student,6,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,Yes,Maybe,1,0,1,0,Maybe,0,0,1,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Right,Right,None,0,1,1,1,0,1,1,1,1,0,0,1,0,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,2,1,2,1,1,4,5
+Male,School,Student,5,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Yes,Yes,0,0,0,1,Yes,0,0,1,0,1,Occasionally,0,0,1,0,0,0.3,Not believed still shared,0,1,Right,Both,Second,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,8,51%-75%,26%- 30%,51%- 75%,2,2,2,3,3,2,3,3
+Female,Jr College,Student,5,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,Maybe,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Right,None,Second,0,1,1,0,1,1,1,0,1,0,1,0,0,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,3,1,1,1,1,1
+Female,Graduate,Housewife,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,Maybe,Yes,1,0,0,1,Yes,0,0,1,0,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Right,Right,Second,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,4,0%- 25%,0%- 25%,76%- 100%,2,5,3,2,3,5,5,5
+Female,Jr College,Student,5,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Igored,0,1,Left,Right,Both,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,6,26%-50%,0%- 25%,51%- 75%,3,2,2,1,1,3,3,2
+Male,Jr College,Student,6,1,1,1,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,0,0,No,Yes,1,1,1,1,Yes,1,1,1,1,1,Occasionally,0,1,0,1,0,0,Igored,0,0,Right,Left,Second,0,1,1,1,0,1,1,1,0,0,0,1,0,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,1
+Female,School,Job,6,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Not applicable,0,1,0,0,0,1,Read and Igored,0,0,Left,Left,Both,0,1,0,1,1,1,1,1,0,0,1,0,0,1,1,9,76%-100%,76%- 100%,51%- 75%,3,4,4,4,2,4,3,4
+Male,Graduate,Private sector,3,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,Yes,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,0,0,1,0,0,Believed and shared,0,0,Right,Right,First,1,1,1,0,1,0,1,1,1,1,1,0,0,1,1,10,0%- 25%,26%- 30%,0%- 25%,1,2,1,1,1,1,5,2
+Female,Post Graduate,Student,3,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,Yes,Maybe,1,1,1,1,Maybe,0,1,1,0,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,None,Left,Second,0,1,1,1,1,0,1,0,0,0,0,1,1,1,1,9,26%-50%,0%- 25%,0%- 25%,2,3,1,2,2,1,1,3
+Male,Post Graduate,Student,5,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,1,1,0,1,0,Yes,Maybe,1,0,0,0,Maybe,1,1,1,0,1,Occasionally,0,0,0,1,0,0,Read and forward,1,0,Right,Right,First,0,1,0,1,0,1,1,1,0,0,0,0,1,1,1,8,26%-50%,0%- 25%,0%- 25%,1,3,3,3,1,3,2,4
+Male,Graduate,Private sector,3,1,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,Maybe,Yes,0,1,0,1,Yes,1,1,0,1,1,Occasionally,1,0,0,1,0.5,0.3,Read and Igored,1,0,Both,Both,First,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,7,76%-100%,76%- 100%,51%- 75%,3,1,2,2,1,1,1,2
+Female,Graduate,Student,6,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,No,No,0,0,0,0,Yes,0,0,0,1,0,Not applicable,1,0,0,0,0,0,Read and Igored,0,0,Left,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,7,0%- 25%,0%- 25%,26%- 50%,2,1,1,2,1,3,4,5
+Female,Jr College,Student,5,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,No,Maybe,0,1,0,0,Maybe,0,1,0,0,0,Not applicable,1,0,0,0,0,0,Believed and shared,1,1,None,None,First,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,4,76%-100%,0%- 25%,0%- 25%,2,5,5,5,1,5,1,5
+Female,School,Housewife,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0,0.3,Read and forward,0,0,Both,Left,None,0,1,1,0,1,0,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,5,4,3,2,2,4,3,1
+Female,Jr College,Student,5,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,0,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Not applicable,1,1,0,0,0,0,Read and forward,0,0,Right,Left,First,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,6,0%- 25%,76%- 100%,26%- 50%,5,1,3,4,5,3,1,2
+Male,Post Graduate,Student,6,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,Yes,Maybe,1,1,0,1,Maybe,1,1,1,1,1,Occasionally,0,0,0,1,0,0,Igored,1,0,Left,Right,First,1,1,1,0,0,1,1,0,0,0,0,0,0,1,0,5,51%-75%,0%- 25%,0%- 25%,2,3,3,4,1,1,1,4
+Male,Post Graduate,Private sector,6,1,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,No,Maybe,1,1,1,1,Maybe,1,0,1,1,1,Occasionally,1,1,0,1,0,0,Igored,1,0,Both,Left,First,0,1,1,1,0,0,1,1,0,1,1,0,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,3,1,1,1,1,1,2
+Female,Graduate,Business,3,1,1,1,0,0,0,1,1,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0,1,Believed and shared,0,0,Right,Left,First,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,4,51%-75%,26%- 30%,76%- 100%,2,3,3,2,3,3,3,3
+Female,Graduate,Student,6,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,1,1,0,Maybe,Maybe,1,0,0,1,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and forward,0,1,Left,Left,Both,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,5,26%-50%,0%- 25%,0%- 25%,3,3,3,3,3,4,3,5
+Female,Post Graduate,Student,6,0,1,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,1,Yes,Yes,0,0,1,1,Yes,1,0,1,1,1,Occasionally,1,0,0,0,0,0,Believed and shared,1,0,Both,Right,First,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,3,3,3,3,4,4,3,4
+Male,Jr College,Private sector,3,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,Yes,Maybe,1,0,1,1,Maybe,1,0,1,1,0,Occasionally,0,0,0,0,0,0,Igored,1,0,None,Right,Second,0,1,1,1,0,1,0,0,0,0,0,1,1,1,1,8,76%-100%,0%- 25%,76%- 100%,1,4,4,1,1,4,2,1
+Female,Post Graduate,Student,3,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,No,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,0,1,0,1,0.5,0,Igored,1,0,Left,Right,First,0,1,0,1,0,1,1,0,1,0,0,1,1,0,0,7,0%- 25%,0%- 25%,0%- 25%,1,5,3,4,3,4,5,3
+Female,Post Graduate,Student,3,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,0,Yes,Maybe,0,1,1,0,Maybe,0,1,1,1,1,Occasionally,0,1,1,0,0,0,Read and Igored,1,0,Right,Left,First,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,3,1,3,1,1,1,3
+Male,Graduate,Private sector,3,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,Yes,Yes,0,1,0,1,Yes,0,1,0,0,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Left,Left,Second,1,0,0,1,0,1,1,0,1,0,0,1,1,1,1,8,51%-75%,26%- 30%,26%- 50%,5,5,5,5,2,3,1,3
+Female,Post Graduate,Student,1,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,No,Maybe,1,0,0,1,Maybe,1,0,1,1,0,Not applicable,0,0,0,1,0,0,Believed and shared,1,0,Right,Right,First,0,1,0,0,0,1,1,0,0,0,1,0,1,0,1,6,0%- 25%,0%- 25%,0%- 25%,3,4,2,3,1,1,3,1
+Male,Jr College,Student,6,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,Yes,Maybe,1,1,1,1,Maybe,1,1,1,1,0,Occasionally,1,1,0,0,0,0,Igored,1,0,Right,Right,First,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,3,5,4,4,2,4,2,5
+Male,Post Graduate,Student,5,1,1,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,Yes,Yes,0,1,1,0,Yes,1,1,1,1,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,None,Left,Second,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,51%-75%,0%- 25%,76%- 100%,3,5,3,2,3,2,4,5
+Female,Jr College,Student,3,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,Yes,Maybe,1,0,1,1,Maybe,1,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Left,Right,First,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,9,0%- 25%,26%- 30%,0%- 25%,2,3,2,3,1,1,2,4
+Female,Post Graduate,Student,3,1,1,1,1,0,1,1,1,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0,0,Igored,0,0,Right,Left,Second,0,0,0,1,1,1,1,0,0,0,0,1,0,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,4,2,3,1,1,2,4
+Female,Post Graduate,Public sector,5,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Yes,Maybe,1,0,1,0,Maybe,1,0,1,0,0,Not applicable,0,0,0,1,0,0,Igored,1,0,Right,Left,First,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,13,0%- 25%,0%- 25%,0%- 25%,2,3,2,4,1,1,1,5
+Male,Graduate,Student,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Yes,0,0,0,1,Maybe,0,0,1,1,1,Occasionally,0,0,0,1,0,0,Igored,1,0,Both,Right,Second,0,1,1,0,1,1,1,0,0,0,1,1,0,0,0,7,26%-50%,0%- 25%,0%- 25%,1,4,2,4,2,1,3,4
+Male,Post Graduate,Student,5,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,0,0,0,0,0,0,Read and forward,1,0,Right,Right,First,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,7,0%- 25%,76%- 100%,0%- 25%,5,5,5,1,1,5,5,1
+Female,Graduate,Private sector,5,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Yes,Yes,1,0,1,0,Maybe,0,0,0,0,1,Occasionally,0,0,0,0,0,0,Read and Igored,0,0,Both,None,First,0,0,1,0,1,1,1,0,0,0,0,0,0,1,1,6,0%- 25%,0%- 25%,0%- 25%,1,3,1,4,1,1,3,5
+Male,Graduate,Private sector,6,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,No,Maybe,1,1,1,1,Maybe,1,0,1,1,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,1,Left,None,First,0,1,1,0,1,1,1,1,0,0,0,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,3,4
+Female,Jr College,Student,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,No,No,0,0,0,0,Yes,0,0,0,1,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Left,Left,None,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,11,0%- 25%,0%- 25%,26%- 50%,5,5,5,5,5,5,5,5
+Female,Graduate,Housewife,3,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,Maybe,Maybe,1,0,1,0,Maybe,1,1,1,1,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,1,Both,Right,First,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,2,1,1,1,1,1,1
+Male,Graduate,Private sector,6,1,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Weekly,1,1,0,0,0,1,Read and Igored,1,1,Left,Left,First,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,3,51%-75%,26%- 30%,51%- 75%,2,3,2,2,3,3,2,2
+Female,Graduate,Student,5,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Yes,Yes,0,0,1,0,Yes,0,0,0,1,1,Occasionally,1,1,1,0,0,0,Igored,1,0,Right,None,None,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,7,26%-50%,0%- 25%,0%- 25%,1,4,4,4,1,4,1,4
+Male,Post Graduate,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,1,1,0,Yes,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,0,0,Both,Right,First,0,1,1,1,0,1,1,0,0,0,1,1,1,1,1,10,26%-50%,0%- 25%,0%- 25%,3,4,3,4,1,2,4,5
+Male,Post Graduate,Student,3,0,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,1,1,1,Maybe,Maybe,0,1,1,0,Maybe,0,1,1,0,1,Occasionally,0,1,0,1,0,0,Igored,0,0,Right,Both,First,0,1,1,0,0,0,1,1,1,1,1,1,0,0,1,9,51%-75%,76%- 100%,76%- 100%,2,4,4,4,1,1,1,1
+Female,Post Graduate,Student,3,1,1,1,1,0,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,Yes,Maybe,1,0,1,1,Maybe,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,None,None,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,1,3,1,3,3,5
+Male,Graduate,Private sector,3,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Yes,Yes,1,1,1,0,Maybe,0,1,1,1,1,Occasionally,1,1,0,0,1,0,Read and Igored,0,0,Left,Right,First,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,11,26%-50%,26%- 30%,26%- 50%,2,4,3,3,4,3,3,4
+Male,Graduate,Student,6,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,Maybe,Maybe,1,0,1,1,Yes,0,0,1,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,0,0,None,Right,None,0,1,0,1,0,1,0,0,1,0,1,1,0,0,1,7,26%-50%,0%- 25%,0%- 25%,3,4,3,5,3,1,2,5
+Male,Post Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,Maybe,Maybe,0,1,1,0,No,0,0,0,0,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,Left,Right,First,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,7,26%-50%,0%- 25%,0%- 25%,2,4,3,2,2,1,1,2
+Male,Jr College,Private sector,6,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,1,0,1,Yes,Yes,1,0,1,1,Yes,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and forward,0,0,Right,None,Both,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,3,2,4,1,2,4,3
+Female,Graduate,Private sector,5,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Maybe,1,0,1,0,Maybe,0,0,1,1,0,Occasionally,0,0,1,1,0,0,Igored,1,0,Left,Right,Second,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,5,26%-50%,26%- 30%,26%- 50%,3,3,3,3,3,3,3,3
+Female,Graduate,Student,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,Maybe,Maybe,0,0,1,0,Maybe,1,0,1,0,0,Not applicable,1,0,0,1,0,0,Igored,1,0,Right,Left,First,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,4,3,3,1,3,3,4
+Female,Post Graduate,Private sector,6,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Maybe,Maybe,1,0,0,0,Maybe,0,0,1,0,1,Occasionally,0,1,0,0,0.5,0,Read and Igored,1,0,Left,None,None,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,5,0%- 25%,0%- 25%,0%- 25%,1,2,1,2,1,3,3,3
+Female,Graduate,Student,5,1,1,1,0,0,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,Yes,Maybe,1,0,1,0,Maybe,0,0,1,1,0,Not applicable,0,0,0,1,0,0,Igored,1,0,Right,Right,Second,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,51%-75%,0%- 25%,0%- 25%,5,4,4,4,3,3,4,5
+Male,Jr College,Student,6,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,Maybe,Yes,0,0,0,1,Yes,0,0,0,1,0,Not applicable,0,1,0,0,0,0,Believed and shared,1,0,Both,Both,Both,0,1,1,0,1,0,1,1,1,1,1,0,0,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,3,3,1,1,5,1,3
+Female,Graduate,Student,3,1,1,1,0,0,0,1,0,1,1,0,1,0,0,1,1,0,1,1,0,0,1,0,Yes,No,0,0,0,0,Yes,1,1,1,1,1,Occasionally,1,1,0,0,0,0.3,Read and forward,1,0,Both,None,Second,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,3,26%-50%,26%- 30%,0%- 25%,1,2,2,2,1,1,5,3
+Female,Graduate,Student,3,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,Yes,Yes,0,1,0,0,Yes,0,0,0,1,1,Occasionally,1,0,0,0,0,0,Igored,1,0,None,None,First,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,0%- 25%,0%- 25%,0%- 25%,2,4,2,3,1,5,3,5
+Male,Graduate,Student,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Maybe,1,0,0,0,Yes,0,0,1,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,0,0,Both,Right,None,1,1,1,0,1,1,0,1,0,0,0,1,1,0,0,7,0%- 25%,0%- 25%,0%- 25%,2,3,4,4,3,5,3,5
+Male,Graduate,Student,6,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,0,0,0,0,0,Igored,1,0,None,None,None,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,6,76%-100%,0%- 25%,0%- 25%,1,2,1,1,1,1,1,3
+Male,Graduate,Business,3,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,Maybe,Yes,1,1,1,0,No,0,0,0,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,1,Right,Left,None,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,4,26%-50%,26%- 30%,51%- 75%,1,5,3,4,1,3,3,4
+Female,Graduate,Unemployed,3,1,1,1,0,0,0,1,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,Maybe,Maybe,1,1,1,1,Maybe,0,1,1,1,1,Occasionally,1,1,0,1,0,0,Read and Igored,1,0,Left,Right,First,0,1,1,1,1,1,0,0,0,0,0,1,1,0,1,8,26%-50%,26%- 30%,0%- 25%,2,3,1,2,3,2,1,4
+Female,School,Student,6,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Yes,Maybe,0,1,0,0,Maybe,1,1,1,1,0,Not applicable,0,1,1,0,0.5,0,Read and Igored,1,0,Both,Right,First,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,12,26%-50%,0%- 25%,0%- 25%,2,5,5,5,1,3,4,5
+Female,Graduate,Student,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Believed and shared,1,0,Left,Right,Second,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0,6,0%- 25%,0%- 25%,26%- 50%,1,4,3,4,1,2,4,4
+Female,School,Student,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Yes,Maybe,1,0,0,0,Maybe,0,0,0,1,0,Not applicable,1,0,0,0,0.5,1,Read and Igored,0,0,Left,Both,None,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,6,26%-50%,0%- 25%,0%- 25%,2,2,3,3,1,3,1,5
+Female,Graduate,Stitching,5,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,Maybe,Maybe,0,0,1,0,No,0,0,0,0,0,Not applicable,1,1,0,0,0.5,0,Not believed still shared,1,0,Both,None,None,0,0,0,0,1,0,1,0,1,1,0,1,1,1,1,8,26%-50%,31%- 75%,51%- 75%,2,3,1,3,5,1,4,3
+Male,School,Student,5,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,Maybe,Maybe,0,0,0,1,Maybe,0,0,0,0,1,Not applicable,1,0,0,0,0,0,Read and forward,1,0,Right,Left,First,0,1,1,1,1,0,1,1,1,0,1,1,0,1,1,11,51%-75%,0%- 25%,0%- 25%,1,4,3,2,1,3,1,4
+Male,Graduate,Private sector,6,1,1,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Not applicable,1,1,0,0,0,0,Believed and shared,1,0,Both,Right,Both,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,12,76%-100%,76%- 100%,76%- 100%,1,5,5,1,2,5,2,5
+Female,Jr College,Student,5,1,1,1,0,0,1,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,Yes,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Left,Left,Both,1,1,1,0,0,1,1,0,0,0,1,0,1,1,1,8,26%-50%,26%- 30%,26%- 50%,1,1,2,1,1,2,1,1
+Female,School,Housewife,5,0,1,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,Yes,Maybe,1,1,1,0,Maybe,1,0,1,0,0,Not applicable,1,1,0,0,0,0,Not believed still shared,0,0,Left,Right,Second,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,3,26%-50%,26%- 30%,26%- 50%,1,2,2,2,4,3,1,2
+Male,Graduate,Private sector,6,1,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,1,0,1,0,1,1,1,Yes,Yes,1,1,1,0,Yes,1,1,1,1,1,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Both,Both,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,10,76%-100%,76%- 100%,76%- 100%,1,4,5,5,1,5,5,5
+Female,School,Housewife,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,1,0,0,Igored,0,0,None,Right,Second,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,11,26%-50%,76%- 100%,0%- 25%,3,1,1,2,1,5,1,2
+Female,Graduate,Private sector,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,No,Yes,0,0,0,1,Yes,1,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and Igored,0,0,Left,Right,Second,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,3,51%-75%,26%- 30%,26%- 50%,3,2,3,3,4,4,4,3
+Female,Graduate,Housewife,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,Maybe,0,0,0,1,Maybe,0,0,0,1,0,Occasionally,0,0,0,1,0.5,0,Read and forward,0,1,Right,Right,Second,1,1,1,1,0,1,1,1,0,0,0,1,1,0,0,8,0%- 25%,26%- 30%,26%- 50%,4,2,3,4,1,3,4,2
+Male,Post Graduate,Business,1,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,Yes,No,0,0,0,0,Maybe,1,1,0,1,1,Occasionally,0,1,0,1,0,0,Not believed still shared,1,0,Right,Right,First,0,0,1,0,0,1,0,0,1,0,0,1,1,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,2,3,1,1
+Female,Graduate,Student,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,Yes,Yes,0,0,1,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0,0,Not believed still shared,1,1,Both,Left,First,0,1,1,0,1,1,0,1,0,0,0,1,1,0,1,8,0%- 25%,0%- 25%,0%- 25%,1,2,3,4,4,1,2,3
+Female,School,Student,5,0,1,1,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,No,Maybe,1,1,1,0,Maybe,1,0,1,1,1,Weekly,1,0,0,0,0,0,Read and Igored,1,0,Left,None,None,0,1,0,1,1,0,1,0,0,0,0,1,1,1,0,7,0%- 25%,0%- 25%,0%- 25%,1,4,3,4,1,2,3,5
+Female,Graduate,Housewife,3,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,Yes,Yes,1,0,0,1,Yes,0,0,1,0,0,Not applicable,0,0,1,0,0,0,Read and forward,1,0,None,Left,Second,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,5,5,1,1,5,1,1
+Female,Graduate,Student,5,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,Maybe,Maybe,1,1,1,1,Maybe,1,1,1,1,0,Not applicable,1,1,0,1,0,0,Igored,1,0,None,Left,None,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,5,5,1,5,1,5
+Female,Graduate,Business,3,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Yes,No,0,0,0,0,Yes,1,1,1,0,1,Occasionally,0,1,1,1,0,0,Igored,1,0,Left,None,Both,0,1,0,1,0,1,1,1,1,0,0,1,1,1,0,9,76%-100%,0%- 25%,0%- 25%,1,3,1,2,1,2,1,4
+Female,Post Graduate,Housewife,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,No,Maybe,1,1,1,0,Yes,0,0,1,0,0,Not applicable,1,0,0,0,1,1,Not believed still shared,1,1,Both,Left,Second,1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,8,51%-75%,0%- 25%,76%- 100%,3,2,1,3,3,1,2,1
+Male,Jr College,Private sector,3,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Not applicable,1,1,0,0,0,0,Igored,0,0,Right,Left,Second,0,1,1,0,1,1,0,0,0,0,0,1,1,1,1,8,26%-50%,31%- 75%,26%- 50%,1,2,1,3,1,1,2,3
+Male,Graduate,Student,3,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Yes,0,1,1,0,Yes,0,1,1,1,1,Daily,0,1,0,0,1,0,Not believed still shared,1,1,Left,Left,Second,1,1,1,0,1,0,1,0,0,0,0,1,1,0,0,6,51%-75%,31%- 75%,51%- 75%,3,4,3,1,4,4,4,3
+Female,Jr College,Housewife,5,1,1,1,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Maybe,1,1,1,1,Maybe,1,0,1,1,1,Weekly,1,0,0,0,0,0,Read and Igored,1,0,None,None,None,0,1,0,1,0,1,1,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,26%- 50%,1,4,4,4,1,3,4,4
+Male,Graduate,Student,5,1,1,1,0,0,1,1,1,0,1,1,1,0,0,1,1,0,1,0,0,0,1,0,Yes,Yes,0,0,0,1,Yes,1,1,1,1,1,Weekly,1,1,0,0,1,1,Read and forward,1,1,Right,Both,Both,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,13,0%- 25%,26%- 30%,0%- 25%,5,4,3,2,5,5,2,3
+Male,Graduate,Private sector,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,Maybe,Maybe,0,0,1,0,Maybe,0,0,0,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Left,None,None,0,1,1,0,0,1,1,0,0,0,1,1,0,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,4
+Male,Graduate,Student,5,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,0,Yes,Yes,0,0,1,1,Maybe,1,0,0,1,1,Not applicable,0,1,0,0,0,0,Igored,1,0,Both,Left,Both,0,1,1,0,0,1,1,1,0,0,1,0,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,2,3,4,1,4,3
+Male,Graduate,Student,6,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,1,Both,None,First,0,1,1,1,0,1,1,1,1,0,0,1,1,1,1,11,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,4
+Male,Graduate,Business,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,No,Yes,1,0,1,0,Yes,1,0,0,0,1,Occasionally,0,1,1,0,0,0,Read and Igored,1,0,Right,Right,Second,0,0,0,1,0,1,1,1,1,1,0,1,0,1,1,9,51%-75%,31%- 75%,51%- 75%,2,2,1,2,2,1,3,3
+Female,Jr College,Student,6,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,No,No,0,0,0,0,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,1,Read and forward,1,0,Both,None,First,0,1,1,0,1,1,1,0,0,0,0,1,1,1,0,8,76%-100%,0%- 25%,76%- 100%,3,2,1,3,5,1,3,5
+Male,Jr College,Student,6,1,1,1,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,Yes,Yes,1,1,1,0,Yes,1,0,1,1,1,Occasionally,1,1,0,1,0,0,Igored,1,0,Right,Right,First,1,1,1,0,1,0,1,1,0,0,0,1,1,1,1,9,76%-100%,0%- 25%,0%- 25%,3,4,2,3,3,1,1,2
+Female,Post Graduate,Student,3,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,0,Occasionally,1,0,0,0,0,0,Read and Igored,0,1,Both,Left,None,0,0,1,1,0,1,1,1,0,0,0,1,0,0,0,6,0%- 25%,0%- 25%,0%- 25%,3,4,4,3,3,4,4,3
+Male,Graduate,Student,6,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,Yes,Maybe,1,0,1,0,Maybe,1,0,0,0,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Right,Right,First,1,1,1,0,1,0,1,0,0,0,1,0,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,2,3,3,2,4
+Male,Jr College,Student,3,0,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,Yes,Maybe,1,1,0,0,Yes,0,0,1,0,1,Occasionally,1,0,1,0,0,0,Not believed still shared,1,0,Left,Right,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,51%-75%,0%- 25%,26%- 50%,1,2,1,1,2,1,1,4
+Male,Graduate,Student,5,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,Yes,Yes,0,1,0,0,Yes,1,0,0,0,1,Daily,0,1,0,0,1,1,Believed and shared,1,1,Left,Left,First,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,26%- 30%,51%- 75%,1,1,1,1,1,1,1,1
+Male,Post Graduate,Private sector,6,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Yes,Yes,0,1,1,0,Yes,0,0,1,1,1,Occasionally,0,0,0,1,0,0,Read and forward,1,0,Right,Left,None,0,1,1,0,1,1,0,0,0,0,0,0,1,0,1,6,0%- 25%,0%- 25%,0%- 25%,5,1,4,4,5,2,1,4
+Female,School,Student,6,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,Maybe,Yes,0,0,1,0,Yes,0,0,1,0,1,Occasionally,1,0,0,0,1,0.3,Read and forward,1,0,None,None,None,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,5,1,1,1,1,1,5
+Male,Post Graduate,Private sector,5,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,Yes,Yes,1,0,1,1,Maybe,1,0,0,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Left,Left,First,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,2,2,2,2,3,3,2
+Female,School,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,Yes,Yes,0,0,1,1,Yes,0,0,1,1,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Left,None,None,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,2,4,2,4,2,2,5,4
+Male,Graduate,Private sector,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,No,Yes,1,0,0,0,Yes,1,0,0,0,1,Occasionally,0,0,0,1,0,0,Believed and shared,1,0,Left,Right,First,0,1,1,0,1,0,1,1,0,1,1,0,0,1,1,9,0%- 25%,0%- 25%,76%- 100%,2,2,2,2,1,1,1,1
+Male,Post Graduate,Business,1,0,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Yes,0,0,0,1,Yes,1,0,0,0,1,Occasionally,0,1,0,0,0,0,Believed and shared,1,0,Right,Right,First,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,76%- 100%,2,3,3,2,3,3,4,4
+Male,Post Graduate,Student,6,1,1,1,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,No,Yes,0,1,0,0,No,0,0,0,0,1,Weekly,0,1,1,0,0,0,Read and Igored,0,1,Right,Right,Second,0,0,0,1,0,1,0,0,0,1,0,1,1,0,1,6,26%-50%,0%- 25%,0%- 25%,3,3,2,3,3,2,3,2
+Female,Graduate,Student,5,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,Yes,Yes,1,0,1,0,Maybe,0,0,1,1,1,Occasionally,1,1,0,1,0,0,Believed and shared,1,0,Left,Left,First,0,0,1,1,0,1,0,0,1,0,0,1,1,0,1,7,0%- 25%,26%- 30%,0%- 25%,1,1,5,2,5,3,5,3
+Female,Graduate,Private sector,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,0,1,0,0,1,0,Read and Igored,1,0,Left,Right,First,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,5,0%- 25%,0%- 25%,0%- 25%,1,2,3,1,1,1,1,1
+Female,Graduate,Student,3,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Yes,Maybe,1,0,1,0,Maybe,0,0,1,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Left,Left,First,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,8,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,3,3,1,4
+Male,School,Business,3,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,Yes,Maybe,1,0,0,1,Maybe,1,0,0,1,0,Not applicable,0,0,0,1,0,0,Igored,1,0,Right,Right,First,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,4,26%-50%,0%- 25%,0%- 25%,1,3,1,4,1,1,1,1
+Male,Graduate,Private sector,6,0,1,1,1,0,0,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,No,Yes,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,0,0,0,1,0,0,Believed and shared,1,0,Left,Right,First,0,1,0,0,0,1,0,0,1,0,1,1,1,0,0,6,51%-75%,0%- 25%,51%- 75%,3,3,1,1,4,1,3,1
+Male,School,Student,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Yes,Yes,1,1,1,0,Yes,1,0,1,1,0,Not applicable,0,0,0,0,0,0,Read and forward,1,0,Left,Left,First,1,0,0,1,0,1,0,0,0,0,0,1,1,1,1,6,76%-100%,26%- 30%,26%- 50%,1,2,3,4,2,4,1,3
+Female,Post Graduate,Student,5,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,No,Yes,1,0,0,1,Maybe,1,0,1,0,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,None,Left,First,0,1,1,0,1,0,1,1,1,0,1,0,1,1,1,10,76%-100%,0%- 25%,51%- 75%,1,1,1,1,1,1,1,1
+Male,Post Graduate,Private sector,6,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Occasionally,1,0,0,0,0,0.3,Read and Igored,1,1,Both,None,None,1,1,1,1,0,1,1,1,0,0,0,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,3,2,2,1,2,2,3
+Male,School,Student,6,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Yes,Maybe,1,1,1,0,Maybe,1,0,1,0,1,Not applicable,0,0,0,1,0,0,Read and Igored,1,1,Left,Right,Second,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,4,1,5,3,1,1,5
+Female,Graduate,Private sector,3,0,1,1,0,0,0,1,1,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,Yes,Yes,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,1,1,0,1,0,0,Read and Igored,1,0,None,None,First,1,1,1,1,1,0,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,1,3,1,1,1,3
+Male,Graduate,Student,5,1,1,1,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,Yes,Yes,1,0,0,1,Maybe,1,0,1,1,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,0,0,0,0,0,1,1,1,1,8,26%-50%,0%- 25%,26%- 50%,1,3,3,3,4,2,4,2
+Female,Post Graduate,Student,5,1,1,1,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,No,Maybe,1,0,0,1,Yes,1,1,0,0,1,Occasionally,0,1,0,0,0,0,Read and forward,1,0,Left,Right,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,26%-50%,0%- 25%,0%- 25%,2,3,3,2,2,3,2,2
+Male,School,Private sector,3,1,1,1,0,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,0,1,1,0,Yes,Yes,0,1,1,0,Yes,1,1,1,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,1,None,Right,First,0,1,1,0,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,2,1,3,2,5,4,3
+Male,Graduate,Student,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,Yes,Yes,1,0,0,0,Yes,0,0,1,0,1,Daily,0,1,0,0,0,0,Read and Igored,1,1,Both,Right,First,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,6,0%- 25%,26%- 30%,26%- 50%,2,5,1,5,1,1,5,5
+Male,Post Graduate,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,Yes,Maybe,0,0,1,0,Yes,0,0,1,0,1,Occasionally,0,0,0,1,0,0,Believed and shared,1,0,Left,Right,Second,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,3,2,1,1,5,1,5
+Female,Graduate,Student,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,1,0,0,Igored,0,0,Left,Left,First,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,3,2,3
+Male,School,Student,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Yes,Yes,0,1,0,0,Yes,0,1,0,0,1,Daily,1,1,0,0,1,1,Not believed still shared,1,1,Right,Left,First,1,1,0,1,0,1,0,1,1,1,0,1,1,0,0,8,0%- 25%,0%- 25%,0%- 25%,5,1,1,1,5,5,5,5
+Female,School,Student,1,0,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,Maybe,Maybe,1,0,0,0,Yes,0,0,0,1,1,Occasionally,1,0,0,0,0,1,Igored,1,0,Left,Right,Second,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,5,51%-75%,26%- 30%,51%- 75%,1,5,3,3,1,4,2,5
+Male,Jr College,Student,6,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,Maybe,Yes,1,0,1,0,Maybe,0,0,1,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Left,None,None,0,1,1,1,0,1,1,1,0,0,1,1,1,1,1,11,26%-50%,31%- 75%,51%- 75%,2,4,4,5,3,4,1,5
+Female,School,Student,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,Yes,Maybe,0,0,1,1,Yes,0,0,1,1,0,Not applicable,1,0,0,0,0.5,1,Read and forward,1,1,Left,Right,Second,0,0,0,1,1,1,1,0,1,0,0,1,0,1,0,7,0%- 25%,0%- 25%,51%- 75%,2,5,3,4,3,4,1,1
+Male,School,Student,6,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,Maybe,Yes,1,0,0,1,Maybe,1,1,1,1,1,Occasionally,1,1,0,0,0,0.3,Igored,1,1,None,Right,None,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,26%-50%,0%- 25%,0%- 25%,1,4,2,5,1,1,2,5
+Female,Post Graduate,Student,5,1,0,1,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0,1,1,Maybe,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,0,1,0,1,0,0,Read and Igored,1,0,Left,Right,First,0,1,1,0,1,0,1,0,0,0,1,1,1,0,1,8,51%-75%,0%- 25%,0%- 25%,2,3,2,2,3,2,2,1
+Male,Post Graduate,Student,6,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,0,0,0,0,0,0,Igored,1,0,None,Left,None,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,12,76%-100%,0%- 25%,0%- 25%,2,5,3,3,3,3,3,5
+Female,Post Graduate,Student,6,0,0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,1,Maybe,Maybe,1,0,1,1,Maybe,1,0,1,0,0,Not applicable,0,0,0,1,0,0,Read and Igored,1,0,Right,Right,Second,0,1,1,0,1,0,1,1,0,1,1,0,0,1,1,9,51%-75%,0%- 25%,51%- 75%,3,3,4,3,3,2,1,3
+Female,Post Graduate,Private sector,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,Yes,Yes,1,0,0,0,Yes,0,0,1,0,0,Not applicable,0,0,0,1,0,0,Believed and shared,1,0,Left,Left,Second,0,0,1,1,0,1,0,0,0,0,0,1,1,0,1,6,0%- 25%,0%- 25%,0%- 25%,2,2,2,2,3,3,3,2
+Male,Post Graduate,Student,6,0,1,1,0,0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Yes,Maybe,1,0,1,0,Maybe,1,0,1,1,0,Not applicable,0,0,0,0,0,0,Read and Igored,1,0,Left,None,None,0,1,1,1,0,1,0,1,0,0,0,1,1,0,1,8,51%-75%,0%- 25%,0%- 25%,3,3,3,3,3,3,5,5
+Male,School,Student,3,0,1,1,0,0,0,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,Yes,Maybe,1,0,0,1,Maybe,1,0,1,0,0,Not applicable,0,0,0,1,0,0,Read and Igored,1,0,Right,Left,First,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,0%- 25%,26%- 50%,2,3,3,3,1,1,1,4
+Female,School,Student,5,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,No,Yes,0,0,1,1,Yes,1,1,0,0,1,Occasionally,1,1,1,0,1,1,Igored,0,0,None,Both,Both,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,76%-100%,76%- 100%,0%- 25%,5,1,2,4,5,3,1,4
+Female,Graduate,Business,6,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,Yes,Maybe,0,1,0,0,Yes,0,0,0,1,1,Occasionally,1,1,0,0,0,0,Believed and shared,1,1,Right,Left,First,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,10,76%-100%,0%- 25%,51%- 75%,3,4,4,4,3,4,4,4
+Female,Graduate,Private sector,1,1,0,1,0,0,1,0,1,1,0,0,1,0,1,0,1,0,0,0,1,1,1,0,Yes,Maybe,0,0,1,0,Maybe,1,0,1,0,1,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Left,Right,First,0,1,0,0,1,0,0,1,0,0,0,1,1,1,0,6,0%- 25%,0%- 25%,0%- 25%,1,2,1,3,1,2,4,5
+Female,School,Student,5,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,Yes,No,0,0,0,0,Maybe,0,0,0,1,1,Occasionally,1,1,0,0,0,0,Not believed still shared,0,0,None,None,None,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,4,51%-75%,26%- 30%,26%- 50%,3,3,2,3,2,3,3,2
+Male,School,Student,5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,Yes,0,0,0,1,No,0,0,0,0,1,Occasionally,1,0,0,1,0.5,0,Believed and shared,1,0,Left,Right,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,26%-50%,26%- 30%,26%- 50%,3,5,5,2,4,2,3,1
+Male,School,Student,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Maybe,Maybe,1,0,1,1,Yes,1,0,1,1,1,Not applicable,1,1,0,0,0,0,Igored,1,0,None,None,None,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,5,1,5,1,1,2,5
+Female,School,Housewife,1,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,No,Yes,0,0,1,0,Yes,0,0,1,0,0,Not applicable,0,0,0,1,0,0,Believed and shared,1,0,Left,Left,Second,0,1,0,0,1,1,1,0,0,1,1,0,1,1,0,8,0%- 25%,76%- 100%,0%- 25%,5,5,5,5,1,1,1,1
+Male,Post Graduate,Student,3,0,1,1,0,0,0,1,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,1,Yes,Maybe,1,0,0,1,Maybe,1,0,1,1,0,Not applicable,0,1,1,0,0.5,1,Read and Igored,1,0,Right,Right,First,0,0,0,1,1,1,1,0,0,0,1,1,1,0,1,8,0%- 25%,0%- 25%,0%- 25%,4,4,3,4,2,3,2,4
+Female,Post Graduate,Student,6,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,1,0,0,1,0,1,1,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Occasionally,0,0,0,1,0,0,Believed and shared,1,0,Both,Right,First,1,1,1,0,1,1,1,0,0,0,0,0,0,1,1,7,51%-75%,31%- 75%,51%- 75%,3,3,3,3,3,4,4,4
+Male,School,Student,6,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,No,No,0,0,0,0,Yes,1,0,0,1,1,Not applicable,0,1,0,1,0,0,Read and Igored,0,0,Left,Right,Second,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,10,0%- 25%,0%- 25%,0%- 25%,1,4,2,1,2,1,1,1
+Male,School,Student,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,No,Yes,1,0,0,0,No,0,0,0,0,1,Occasionally,0,1,0,0,0,0,Read and forward,1,0,Right,Right,Second,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,4,76%-100%,76%- 100%,0%- 25%,1,5,4,3,1,1,3,5
+Male,Post Graduate,Student,6,1,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,0,0,1,1,1,1,0,Yes,Maybe,1,1,1,1,Maybe,1,0,1,0,1,Occasionally,0,1,0,1,0,0,Believed and shared,1,0,None,Right,First,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,3,3,1,1,1,1,1,5
+Male,Graduate,Student,3,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Yes,Yes,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Right,Right,Second,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,11,0%- 25%,0%- 25%,0%- 25%,1,4,4,1,1,4,4,1
+Female,School,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0,1,1,1,0,0,Yes,Maybe,1,1,1,1,Maybe,1,0,1,1,1,Occasionally,1,0,0,1,0,0.3,Read and Igored,1,0,Left,Left,Second,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,0%- 25%,0%- 25%,3,4,1,5,4,1,3,5
+Female,Graduate,Intern,6,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,No,No,0,0,0,0,No,0,0,0,0,1,Daily,0,1,0,0,0.5,1,Not believed still shared,0,0,Right,Right,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,26%- 50%,2,2,2,2,2,2,2,2
+Female,School,Housewife,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,Maybe,0,0,0,1,Maybe,0,0,0,1,0,Daily,0,0,0,1,0.5,0,Not believed still shared,0,1,Right,Right,Second,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,4,0%- 25%,26%- 30%,26%- 50%,3,1,2,4,2,1,4,3
+Female,School,Student,6,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Weekly,1,0,0,0,0,0,Not believed still shared,0,0,Left,Left,Second,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,6,76%-100%,31%- 75%,51%- 75%,1,5,2,4,4,2,4,3
+Male,School,Student,3,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,No,Yes,1,0,0,0,Yes,0,0,0,1,0,Not applicable,1,0,0,0,1,1,Not believed still shared,1,0,Right,Right,Second,1,1,1,0,0,1,0,1,0,0,0,1,1,0,0,6,26%-50%,26%- 30%,0%- 25%,5,3,1,5,1,3,2,5
+Male,School,Student,6,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,Yes,No,0,0,0,0,Yes,0,1,0,0,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Right,Right,None,0,1,1,1,0,1,1,0,0,0,1,1,1,1,1,10,76%-100%,0%- 25%,0%- 25%,2,5,3,3,1,5,5,1
+Male,School,Student,3,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,Yes,No,0,0,0,0,Yes,1,1,0,0,0,Not applicable,0,0,0,1,0,0,Not believed still shared,1,0,Left,Right,First,0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,6,0%- 25%,26%- 30%,76%- 100%,1,5,2,1,1,5,5,2
+Male,Jr College,Student,6,0,1,1,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,0,Left,None,None,0,1,1,1,1,1,1,0,1,0,0,1,0,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,5,1,1,1,1,1,1
+Female,School,Student,3,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and Igored,0,0,Right,Right,Second,0,0,0,1,1,0,0,1,0,0,1,1,1,1,0,7,0%- 25%,0%- 25%,0%- 25%,2,1,3,1,4,3,3,1
+Female,School,Student,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and Igored,0,0,Right,None,First,1,1,0,0,0,1,1,0,0,0,0,1,0,1,0,5,26%-50%,31%- 75%,0%- 25%,1,2,1,2,1,2,3,4
+Male,School,Student,3,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0,1,Believed and shared,0,0,Right,Left,First,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,5,0%- 25%,0%- 25%,26%- 50%,1,1,2,2,4,3,4,3
+Female,School,Student,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,No,No,0,0,0,0,No,0,0,1,0,1,Occasionally,1,0,0,0,0,0.3,Read and Igored,0,0,Both,Left,Second,1,1,1,0,0,1,1,0,0,0,1,1,0,1,0,7,26%-50%,26%- 30%,0%- 25%,2,3,1,2,5,3,1,2
+Male,Graduate,Student,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,No,Yes,0,0,0,1,Maybe,0,0,1,0,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,Right,Left,First,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,10,0%- 25%,0%- 25%,76%- 100%,2,3,3,3,2,3,3,2
+Female,School,Student,6,0,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,Maybe,0,0,0,1,Maybe,1,0,0,1,0,Not applicable,1,0,1,0,1,1,Not believed still shared,1,0,Left,Left,First,0,1,0,0,0,1,0,1,0,0,1,1,1,1,1,8,26%-50%,0%- 25%,0%- 25%,4,1,2,3,2,3,2,1
+Male,Graduate,Student,5,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Yes,1,1,1,1,Yes,0,1,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,Second,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,8,26%-50%,26%- 30%,26%- 50%,4,2,3,4,4,4,2,4
+Male,Post Graduate,Private sector,5,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Yes,Maybe,1,1,1,0,Maybe,0,1,1,1,1,Occasionally,0,0,0,1,0,0,Read and Igored,1,1,Left,Right,Both,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,5,0%- 25%,0%- 25%,0%- 25%,1,3,2,2,3,1,1,1
+Male,Post Graduate,Private sector,6,1,1,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,Maybe,Maybe,1,0,1,0,Yes,1,0,1,0,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Both,Left,Second,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,4,26%-50%,26%- 30%,26%- 50%,3,4,3,2,3,2,2,3
+Female,Jr College,Student,3,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Yes,Maybe,0,1,0,0,Maybe,1,0,0,0,1,Occasionally,1,1,0,0,0,0,Igored,1,1,Left,None,First,1,0,0,1,0,1,0,0,0,0,0,1,1,1,1,6,0%- 25%,0%- 25%,0%- 25%,3,5,1,3,4,1,1,5
+Male,Post Graduate,Student,6,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Maybe,1,0,1,0,Maybe,1,0,1,0,1,Occasionally,1,0,0,0,0,0,Read and forward,1,0,Left,Right,First,0,1,1,0,1,1,0,1,1,0,0,1,0,0,1,8,51%-75%,31%- 75%,51%- 75%,2,3,3,4,3,2,1,4
+Female,School,Student,6,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,1,0,0,0,Not believed still shared,1,0,Right,Left,First,0,1,1,0,0,0,1,1,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,2,1,4,2
+Female,School,Student,3,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Yes,Maybe,1,1,1,1,Yes,1,1,1,1,0,Not applicable,0,1,1,0,0,1,Read and Igored,1,0,None,Both,Both,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,7,51%-75%,0%- 25%,26%- 50%,2,5,2,4,2,1,5,5
+Female,School,Student,6,1,1,1,0,0,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,1,0,Yes,Yes,1,1,1,1,Yes,1,0,0,0,1,Daily,1,1,0,0,1,0,Igored,1,1,None,Both,Second,1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,9,0%- 25%,0%- 25%,76%- 100%,3,4,2,3,1,1,1,1
+Male,School,Student,3,1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Weekly,0,1,0,0,0,0,Igored,1,0,Right,Left,None,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,5,0%- 25%,26%- 30%,51%- 75%,1,1,1,1,1,1,2,2
+Female,School,Student,6,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and Igored,0,0,Left,None,Second,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,5,1,1,1,1,1,1
+Male,School,Student,3,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,Left,Left,None,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,6,0%- 25%,26%- 30%,76%- 100%,3,1,4,2,2,3,1,4
+Female,School,Student,6,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,No,Yes,0,0,0,1,Yes,1,0,0,0,1,Weekly,1,0,0,0,0.5,0,Read and forward,1,0,Right,Right,Second,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,4,26%-50%,26%- 30%,76%- 100%,2,1,3,4,3,5,1,2
+Male,School,Student,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,1,Weekly,1,0,0,0,0,0.3,Igored,0,0,Left,Right,Second,0,1,1,0,1,0,1,1,0,0,1,1,0,0,0,7,76%-100%,31%- 75%,76%- 100%,3,1,3,2,4,2,5,1
+Male,Graduate,Student,6,1,1,1,1,0,0,1,0,1,0,0,1,1,0,1,1,0,0,1,0,0,1,0,Yes,Maybe,1,0,0,1,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Igored,1,0,None,Right,First,1,0,1,1,0,1,0,0,0,0,1,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,3,5,3,3,4,4,4,5
+Female,School,Student,6,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,1,1,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0.5,0,Not believed still shared,1,0,Left,Left,Second,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,4,76%-100%,0%- 25%,51%- 75%,2,3,2,3,2,1,3,2
+Male,School,Student,5,1,1,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,1,0,0,Maybe,Maybe,1,0,1,1,Maybe,1,1,1,0,1,Daily,1,1,0,0,1,1,Read and Igored,1,0,Right,Right,Second,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,8,76%-100%,0%- 25%,76%- 100%,1,5,3,5,5,2,4,2
+Female,School,Student,3,1,1,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,Yes,No,0,0,0,0,Maybe,1,1,1,1,0,Not applicable,1,1,0,0,1,0,Read and forward,1,0,Left,Right,First,0,1,1,0,1,0,1,0,0,0,0,0,0,1,1,6,51%-75%,0%- 25%,76%- 100%,1,5,4,3,2,5,3,3
+Female,School,Student,3,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0.5,0,Not believed still shared,0,0,Right,None,None,1,0,0,1,1,0,0,0,1,0,0,1,1,1,0,6,0%- 25%,31%- 75%,51%- 75%,3,4,4,4,1,4,1,4
+Female,Graduate,Student,5,1,1,1,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,0,1,1,0,Yes,No,0,0,0,0,Maybe,0,0,0,1,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,Both,Left,Second,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,9,0%- 25%,0%- 25%,0%- 25%,1,2,1,3,1,1,4,4
+Male,Graduate,Employee,5,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,No,Yes,0,1,0,0,Yes,1,0,1,0,0,Occasionally,1,0,0,1,0,0,Read and forward,1,0,Both,None,First,1,1,1,0,0,1,0,0,0,0,1,0,1,0,1,6,0%- 25%,26%- 30%,0%- 25%,1,2,2,1,1,3,1,1
+Male,School,Student,3,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,Maybe,Maybe,1,0,1,1,Maybe,1,0,1,0,1,Occasionally,1,1,0,1,0,0,Read and Igored,0,0,None,Right,First,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,6,0%- 25%,0%- 25%,0%- 25%,1,4,3,4,1,1,3,5
+Female,School,Student,1,0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,No,No,0,0,0,0,Yes,0,0,0,1,0,Not applicable,1,0,0,0,0.5,0,Igored,1,0,Left,Left,None,1,0,1,0,0,1,0,1,0,0,1,1,1,0,1,7,0%- 25%,26%- 30%,76%- 100%,1,2,3,4,1,1,1,1
+Male,School,Student as well as freelancing,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Yes,1,0,1,1,Yes,1,1,1,0,0,Not applicable,0,0,0,0,0,0,Igored,1,0,None,Both,First,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,10,0%- 25%,0%- 25%,0%- 25%,1,5,1,5,1,1,1,5
+Male,School,Student,3,1,1,1,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,Yes,Yes,1,1,1,0,Maybe,1,0,1,0,1,Weekly,1,1,1,0,0.5,0.3,Read and Igored,1,1,Left,Left,First,1,1,0,1,0,1,0,0,0,0,0,1,1,0,1,6,76%-100%,76%- 100%,51%- 75%,4,4,4,4,4,4,4,4
+Male,School,Student,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Maybe,No,0,0,0,0,No,0,0,0,0,1,Not applicable,0,0,1,1,0,0,Read and Igored,1,0,None,Right,Second,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,5,51%-75%,0%- 25%,0%- 25%,3,1,2,2,2,2,1,3
+Male,School,Student,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,1,0,1,1,0,No,Yes,0,1,1,0,Yes,0,0,0,0,0,Not applicable,1,1,0,0,0,1,Igored,0,0,Right,Right,First,0,1,1,0,1,0,1,1,1,0,0,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,2,3,4,4,2,3,1
+Female,School,Student,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Maybe,1,0,0,1,No,0,0,0,0,1,Occasionally,1,0,0,1,0.5,0.3,Read and Igored,1,0,Right,Left,Second,0,1,1,1,0,1,0,0,0,0,0,1,1,1,1,8,51%-75%,0%- 25%,0%- 25%,5,5,1,4,4,1,3,5
+Male,School,Student,3,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,1,0,Yes,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,1,1,1,0,0.5,0,Igored,1,0,Left,None,None,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,4,4,4,2,3,4,5
+Female,School,Student,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,Yes,1,0,0,1,Maybe,0,0,1,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Right,None,First,1,1,0,1,0,1,0,0,0,0,0,1,1,0,1,6,0%- 25%,26%- 30%,26%- 50%,1,2,2,3,1,4,3,5
+Male,School,Student,3,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,1,0,0,1,0,Yes,Yes,1,0,0,1,Yes,1,0,1,1,1,Not applicable,0,1,0,0,0,0,Igored,1,0,Right,None,Second,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,6,0%- 25%,26%- 30%,0%- 25%,2,4,1,1,1,1,3,1
+Female,Graduate,Private sector,3,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Maybe,0,0,1,0,Maybe,0,0,1,0,1,Occasionally,0,0,0,1,0,0,Igored,1,0,Left,Left,First,0,1,0,0,0,1,1,0,1,0,1,0,0,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,2,1,3,1,1,1,3
+Male,Graduate,Private sector,6,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Yes,Yes,1,0,1,1,Yes,1,1,1,1,1,Occasionally,0,1,0,1,0,0,Read and Igored,1,0,Left,Right,Second,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,5,1,5,1,1,4,5
+Female,Jr College,Student,6,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,1,0.3,Read and Igored,0,0,Right,Left,None,0,1,0,1,0,1,1,0,0,1,1,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,5,1,2,2,2,1,3
+Female,Jr College,Public sector,6,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,1,0,0,0.5,0,Read and Igored,1,0,Right,Left,None,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,5,0%- 25%,0%- 25%,0%- 25%,1,5,1,2,1,5,5,1
+Male,School,Student,3,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,Yes,Maybe,0,0,1,0,Maybe,1,0,1,0,0,Not applicable,1,0,0,0,0,0,Igored,1,0,Right,Left,Second,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,8,26%-50%,0%- 25%,0%- 25%,2,4,3,4,2,2,2,5
+Male,School,Student,6,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Occasionally,0,1,0,1,0.5,1,Igored,1,1,Both,None,First,0,1,1,1,0,1,1,0,0,0,0,1,0,1,1,8,51%-75%,76%- 100%,76%- 100%,1,4,3,2,2,2,4,2
+Female,School,Student,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Weekly,0,1,0,0,1,0,Not believed still shared,0,0,Right,Left,None,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0%- 25%,31%- 75%,26%- 50%,3,2,1,3,5,3,5,1
+Male,School,Student,3,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,Maybe,Maybe,1,1,1,0,Maybe,0,1,1,0,1,Occasionally,0,1,0,1,0,0,Read and Igored,1,0,Right,None,First,1,1,0,1,0,1,1,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,2,5,2,1,1,2,2,1
+Male,School,Student,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,No,Yes,1,0,1,1,Yes,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Not believed still shared,0,0,Right,Right,First,0,1,1,1,0,0,1,0,0,0,0,1,1,1,1,8,51%-75%,0%- 25%,26%- 50%,3,5,2,2,4,3,5,3
+Male,School,Student,3,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Maybe,0,0,0,1,No,0,0,0,0,0,Not applicable,0,0,0,1,0,0,Read and Igored,0,0,Left,Left,Second,0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,7,0%- 25%,0%- 25%,26%- 50%,2,5,3,1,1,1,1,5
+Male,Jr College,Student,5,1,1,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,0,0,1,0,Yes,No,0,0,0,0,Yes,0,0,0,0,1,Occasionally,1,1,0,0,0,0,Not believed still shared,1,0,Left,None,First,0,1,1,0,1,0,1,0,0,0,1,1,0,1,0,7,0%- 25%,31%- 75%,0%- 25%,1,1,1,1,1,1,1,1
+Male,Graduate,Private sector,6,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,No,Yes,1,1,0,1,Yes,0,1,0,0,1,Occasionally,0,0,0,1,0,0,Believed and shared,1,0,Left,Right,Second,0,0,1,0,1,1,1,0,0,0,1,0,0,0,1,6,0%- 25%,0%- 25%,0%- 25%,1,4,5,1,1,5,1,1
+Male,School,Student,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,Maybe,Maybe,1,1,1,0,Maybe,1,1,1,0,1,Occasionally,1,0,0,1,0,0,Read and Igored,1,0,Right,None,First,1,1,0,1,0,1,1,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,2,5,3,1,1,2,2,1
+Male,School,Student,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,Yes,Maybe,1,0,1,1,Maybe,1,0,1,1,0,Not applicable,0,1,0,0,0.5,0,Not believed still shared,1,0,Left,Left,None,0,0,1,1,1,1,0,1,0,1,1,1,1,0,0,9,26%-50%,0%- 25%,26%- 50%,1,3,2,3,2,2,1,3
+Male,School,Business,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,No,Yes,0,0,1,0,Yes,1,0,0,0,1,Occasionally,0,1,0,1,0,0,Read and Igored,1,0,Right,Right,First,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,5,26%-50%,31%- 75%,0%- 25%,1,5,2,4,1,3,5,4
+Male,School,Student,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Maybe,Maybe,1,0,0,0,Maybe,1,0,1,0,0,Not applicable,0,0,0,0,0,0,Read and Igored,1,0,Both,Right,None,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,6,26%-50%,0%- 25%,0%- 25%,3,5,3,1,3,2,2,1
+Male,School,Student,1,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,1,1,0,0,1,0,0,1,No,Yes,1,0,1,1,Maybe,1,1,0,1,0,Not applicable,0,0,0,1,0,0,Read and Igored,0,0,Left,Right,None,0,1,0,1,0,1,0,1,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,3,4,5,1,5,5,5,1
+Female,Graduate,Housewife,1,1,1,1,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,Maybe,Maybe,1,0,1,0,Maybe,1,1,1,0,0,Occasionally,1,1,0,1,0,0,Read and Igored,1,0,Left,Right,First,0,1,0,1,1,1,1,0,0,0,1,1,1,1,1,10,0%- 25%,0%- 25%,51%- 75%,1,2,3,1,1,4,2,4
+Male,School,Student,6,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,Yes,Yes,1,0,1,0,Yes,0,1,1,0,0,Not applicable,0,0,1,1,0,0,Believed and shared,1,0,None,Left,Second,0,1,1,1,0,1,1,0,0,0,1,1,0,1,1,9,51%-75%,0%- 25%,0%- 25%,3,5,2,4,1,3,2,5
+Male,School,Student,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,Maybe,Maybe,1,1,0,1,Maybe,1,1,1,1,0,Not applicable,0,0,0,1,1,1,Igored,0,0,Both,None,None,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,6,0%- 25%,0%- 25%,0%- 25%,3,3,3,3,3,3,3,2
+Female,School,Student,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Yes,Maybe,1,1,1,1,Yes,1,1,1,1,0,Not applicable,1,0,1,0,0,0,Igored,1,0,Left,Left,Second,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,6,76%-100%,0%- 25%,0%- 25%,5,5,1,1,1,5,1,1
+Female,School,Student,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,Yes,Yes,1,0,0,1,Yes,1,0,1,0,0,Not applicable,1,0,0,0,0,1,Igored,1,0,Right,Right,None,0,1,0,1,0,1,1,0,0,0,1,1,1,1,1,9,26%-50%,0%- 25%,51%- 75%,2,1,3,3,4,2,1,3
+Female,School,Student,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,Yes,Yes,0,0,0,1,Yes,0,0,1,0,0,Not applicable,1,0,0,0,1,1,Not believed still shared,1,0,Both,Left,Second,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,26%-50%,31%- 75%,76%- 100%,1,4,2,3,2,2,5,4
+Male,School,Student,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,Yes,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Occasionally,0,1,0,1,0.5,0.3,Igored,1,0,Right,Right,First,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,5,26%-50%,0%- 25%,26%- 50%,4,5,3,5,1,1,1,5
+Male,School,Student,3,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Maybe,1,0,1,0,Yes,1,0,1,1,1,Not applicable,1,1,0,0,0,0,Igored,1,0,Both,Left,Second,0,1,1,1,0,0,1,0,0,0,0,1,1,1,1,8,26%-50%,31%- 75%,26%- 50%,1,3,1,2,3,3,5,5
+Male,School,Student,3,0,1,1,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,Yes,Yes,1,0,0,1,Maybe,1,0,0,1,0,Not applicable,1,1,0,0,0,0,Igored,1,0,Right,Right,Both,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,11,0%- 25%,0%- 25%,0%- 25%,1,5,1,2,1,1,1,5
+Female,Graduate,Unemployed,5,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,Yes,Maybe,1,1,1,1,Maybe,1,1,1,1,0,Not applicable,1,0,0,0,0,0,Igored,1,0,Both,Right,Second,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,9,76%-100%,0%- 25%,0%- 25%,1,3,4,1,3,5,5,5
+Male,Graduate,Private sector,3,1,1,1,0,0,0,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,Yes,Yes,1,1,1,0,Yes,1,1,1,1,1,Occasionally,0,1,0,1,0,0,Believed and shared,1,1,Right,None,First,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0,7,51%-75%,0%- 25%,0%- 25%,2,5,3,3,1,5,1,3
+Female,Graduate,Student,6,1,1,1,0,0,1,1,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,0,Maybe,Maybe,1,0,0,1,Yes,0,0,1,1,0,Not applicable,1,1,0,1,1,0,Read and Igored,0,0,None,None,None,1,0,0,1,1,0,1,0,0,1,0,1,0,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,2,2,5,1,5
+Male,Graduate,Private sector,6,1,1,1,1,0,0,1,0,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,Yes,Yes,0,1,0,1,Yes,1,0,0,0,1,Occasionally,0,1,0,0,0,0,Believed and shared,1,0,Left,Right,First,0,1,1,1,0,1,1,0,1,0,0,1,1,1,1,10,0%- 25%,0%- 25%,0%- 25%,1,4,4,4,1,5,3,5
+Female,Graduate,Student,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Yes,Maybe,1,0,1,0,Maybe,1,0,1,1,1,Occasionally,0,1,0,1,0,0,Believed and shared,1,0,Left,Left,First,0,1,0,1,1,0,0,0,0,0,1,0,1,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,3,2,2,1,2,3,3
+Female,Graduate,Private sector,3,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,No,Maybe,0,1,0,1,Maybe,1,1,0,0,0,Occasionally,0,0,0,1,0,0,Igored,1,0,Right,Right,Both,0,1,1,0,1,1,0,0,1,1,0,1,1,0,0,8,51%-75%,0%- 25%,0%- 25%,1,3,3,2,1,3,1,1
+Female,Post Graduate,Private sector,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,Yes,No,0,0,0,0,No,0,0,0,0,1,Weekly,1,0,0,0,0,0,Not believed still shared,1,1,Right,Left,Second,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,3,1,1,1,1,2,4,3
+Male,Graduate,Student,6,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1,1,0,1,0,Maybe,Maybe,1,0,1,1,Maybe,1,1,1,0,1,Occasionally,0,0,0,1,0,0,Read and forward,1,0,Both,Right,First,1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,9,76%-100%,0%- 25%,0%- 25%,1,5,2,3,1,5,1,5
+Male,Graduate,Private sector,3,1,1,1,1,0,0,1,0,0,0,1,1,0,1,1,1,1,1,0,0,0,1,0,Maybe,Yes,0,0,0,1,Yes,1,0,0,1,1,Weekly,0,1,0,0,0,0,Read and forward,1,0,Left,Right,None,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,6,26%-50%,26%- 30%,26%- 50%,2,3,3,3,1,1,1,1
+Male,Graduate,Private sector,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,Yes,Maybe,0,0,1,0,Maybe,1,1,1,1,1,Not applicable,0,1,0,0,0,0,Read and forward,1,0,None,None,First,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,7,26%-50%,0%- 25%,26%- 50%,1,4,3,1,1,4,3,2
+Female,Post Graduate,Student,5,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,No,Yes,1,0,1,1,Yes,1,0,1,0,0,Not applicable,0,1,0,0,0,0,Read and Igored,1,0,Left,Left,Second,0,1,1,0,1,1,1,0,0,1,0,1,1,1,1,10,51%-75%,0%- 25%,0%- 25%,4,1,3,2,2,4,1,3
+Female,Graduate,Student,5,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Yes,Maybe,0,0,1,0,Maybe,0,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Left,Right,None,1,0,1,0,0,1,0,0,0,1,1,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,1
+Male,Post Graduate,Student,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Occasionally,1,0,0,0,0,0,Believed and shared,1,0,None,None,None,1,1,1,0,1,1,1,0,0,0,0,1,1,1,0,8,0%- 25%,0%- 25%,0%- 25%,1,3,4,4,1,5,1,5
+Male,Post Graduate,Public sector,3,1,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Yes,No,0,0,0,0,Maybe,0,1,0,0,0,Not applicable,0,0,0,0,0,0,Read and Igored,1,0,Right,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,3,1,4,1,4
+Male,Post Graduate,Student,5,1,1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,Yes,Yes,1,0,1,1,Maybe,0,1,0,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Both,Right,First,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,2,1,5
+Female,Post Graduate,Student,6,0,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,Yes,Maybe,0,0,1,1,Maybe,0,0,1,0,1,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Both,None,None,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,10,0%- 25%,0%- 25%,51%- 75%,2,2,2,2,3,3,1,2
+Female,Post Graduate,Student,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,No,No,0,0,0,0,No,0,0,0,0,1,Daily,0,0,1,0,0,1,Not believed still shared,1,0,None,Right,Second,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,26%-50%,0%- 25%,0%- 25%,2,2,2,2,2,2,2,2
+Male,Graduate,Business,3,1,0,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,Yes,Yes,0,1,0,0,Yes,0,1,0,0,1,Daily,0,1,0,0,1,1,Believed and shared,1,1,Right,Left,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,2,3,4,3,2,4,1
+Female,Graduate,Student,6,1,1,1,1,0,1,1,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,Yes,Maybe,1,0,1,1,Maybe,0,0,1,0,1,Occasionally,1,1,0,0,0,0,Read and forward,1,1,Left,Left,First,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,2,4,4,1,4
+Male,Graduate,Student,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,No,Maybe,1,1,0,0,Maybe,1,1,1,0,1,Occasionally,0,0,0,1,0,1,Read and Igored,1,0,Left,Right,Both,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,2,4,1,3,1,1,2,4
+Male,Post Graduate,Public sector,6,0,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,Yes,Maybe,1,0,0,1,Maybe,1,0,1,0,0,Not applicable,0,0,0,1,0,0,Igored,1,0,Right,Right,First,0,1,0,1,1,1,0,1,0,0,1,0,0,1,0,7,0%- 25%,0%- 25%,0%- 25%,1,4,1,3,1,1,1,5
+Female,School,Unemployed,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,Maybe,Maybe,0,0,1,0,Maybe,0,0,0,1,0,Not applicable,0,0,0,1,0.5,0,Believed and shared,0,0,Right,Left,None,0,0,0,0,0,1,1,1,1,1,0,1,1,1,0,8,0%- 25%,26%- 30%,26%- 50%,2,3,2,3,2,2,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,0,1,1,0,1,Occasionally,1,1,1,0,1,1,Believed and shared,1,1,Right,Right,Second,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Jr College,Unemployed,1,1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,No,Yes,1,1,1,0,Yes,0,1,1,0,1,Daily,1,0,1,0,1,1,Not believed still shared,1,1,Left,Both,First,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,3,0%- 25%,0%- 25%,76%- 100%,3,2,3,3,3,1,3,4
+Male,Post Graduate,Student,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,1,1,0,Yes,Yes,1,1,0,0,Yes,0,1,1,0,1,Occasionally,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,6,26%-50%,26%- 30%,51%- 75%,3,3,1,3,3,3,1,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Jr College,Student,3,1,1,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,Yes,Yes,0,1,0,0,Yes,0,1,0,1,0,Not applicable,1,1,0,0,1,0.3,Read and Igored,1,0,Right,Left,None,0,1,1,1,0,1,1,0,0,0,1,1,0,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,4,1,3,1,2,2,4
+Male,Graduate,Private sector,6,1,1,1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,0,1,0,1,0,Yes,No,0,0,0,0,Maybe,1,1,1,0,1,Occasionally,1,1,1,0,0,0,Read and forward,1,0,Left,Both,Second,0,1,1,1,0,0,1,0,0,1,0,0,0,1,1,7,0%- 25%,26%- 30%,26%- 50%,1,4,1,3,2,2,2,4
+Female,Post Graduate,Unemployed,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,1,1,0,1,0,Maybe,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,1,0,0,0,Read and Igored,1,0,Both,Right,First,0,0,1,1,0,0,1,0,0,1,1,1,0,1,1,8,51%-75%,26%- 30%,51%- 75%,3,3,1,3,3,3,1,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Maybe,Maybe,1,0,1,1,Maybe,1,0,0,1,0,Not applicable,1,1,1,0,0,0,Igored,1,0,Left,Left,Second,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,7,0%- 25%,0%- 25%,0%- 25%,3,3,1,3,3,3,1,3
+Female,School,Student,6,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,No,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Weekly,1,0,0,0,0,1,Read and Igored,1,0,None,None,None,1,0,0,1,0,1,1,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,4,2,4,1,1,5,5
+Male,School,Public sector,6,1,1,1,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,Yes,Maybe,1,0,0,1,Yes,1,1,0,1,0,Not applicable,1,1,1,0,0,0,Igored,1,0,None,Both,First,0,1,1,1,0,0,1,0,0,0,1,0,0,1,1,7,0%- 25%,26%- 30%,26%- 50%,2,2,3,3,3,3,1,3
+Female,School,Student,6,1,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,0,0,Yes,Yes,1,1,1,1,Yes,1,0,1,1,1,Occasionally,0,1,0,1,0,0,Read and Igored,1,0,None,None,First,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,5
+Male,Jr College,Student,3,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,Yes,Yes,1,1,0,1,Yes,1,1,0,1,0,Not applicable,0,1,0,0,0,0,Read and Igored,1,1,None,Right,Second,0,1,1,0,1,0,1,1,0,0,1,0,0,1,1,8,51%-75%,76%- 100%,26%- 50%,4,5,3,3,4,3,3,3
+Female,Jr College,Student,3,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,Yes,Maybe,1,1,1,1,Maybe,1,0,0,1,0,Not applicable,0,0,0,1,0,0,Read and Igored,1,0,Right,Left,Second,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,1,1,3,1,1,1,4
+Male,Jr College,Student,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,No,Yes,0,0,1,1,Yes,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Left,Left,Second,0,1,1,0,1,0,1,1,0,0,0,0,1,1,0,7,0%- 25%,0%- 25%,51%- 75%,3,4,2,3,2,3,4,2
+Male,Jr College,Student,6,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,0,0,1,1,0,0,1,0,Yes,Yes,1,1,1,1,Yes,1,0,1,1,1,Weekly,1,1,0,0,0,0,Igored,1,0,None,Both,First,1,1,1,1,0,1,0,0,0,0,0,1,0,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,2,4,2
+Female,School,Student,5,1,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,No,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0,0,Read and forward,0,0,Right,Left,Second,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,5,51%-75%,31%- 75%,51%- 75%,3,4,2,2,4,1,2,3
+Female,Jr College,Student,5,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,Yes,Maybe,0,0,1,1,Maybe,1,0,1,1,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,0,Both,Left,First,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,5,26%-50%,0%- 25%,26%- 50%,2,4,3,4,2,3,4,4
+Female,School,Student,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,Yes,Yes,0,0,0,1,Yes,0,0,1,0,1,Occasionally,0,1,0,0,0.5,0,Read and Igored,1,0,Right,Left,None,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,10,76%-100%,0%- 25%,51%- 75%,1,2,3,4,3,4,4,2
+Female,Jr College,Student,3,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Maybe,Yes,1,1,1,1,Maybe,1,0,1,1,0,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,None,None,None,0,1,1,0,0,0,1,1,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,76%- 100%,1,4,2,1,1,4,4,4
+Female,Jr College,Student,3,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,No,No,0,0,0,0,Maybe,0,0,0,1,1,Occasionally,0,1,0,0,0,0.3,Read and Igored,1,0,Right,Left,First,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,26%- 50%,1,4,3,4,1,3,3,4
+Male,School,Student,3,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Maybe,Yes,0,0,0,1,Yes,1,0,0,0,1,Weekly,0,0,0,0,0,0,Igored,1,1,Left,Left,Second,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,5,0%- 25%,26%- 30%,0%- 25%,1,5,2,4,1,5,1,5
+Female,Post Graduate,Student,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Yes,No,0,0,0,0,No,0,0,0,0,0,Daily,1,0,0,0,0,0,Read and Igored,0,0,Right,None,Second,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,5,26%-50%,0%- 25%,0%- 25%,1,4,4,4,4,4,4,4
+Female,School,Student,3,0,1,1,0,0,0,1,1,1,0,0,1,1,1,0,1,1,0,0,1,0,0,0,Maybe,Maybe,0,1,0,0,Maybe,1,1,1,1,1,Not applicable,1,1,0,1,0,0,Not believed still shared,0,0,Left,None,None,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,26%-50%,26%- 30%,26%- 50%,2,3,2,2,3,2,3,3
+Female,School,Student,3,1,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,No,Yes,1,0,1,1,Yes,1,1,1,1,1,Occasionally,1,1,1,0,0,0,Read and Igored,1,0,Right,Left,Second,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,4,26%-50%,26%- 30%,0%- 25%,1,5,4,2,4,5,3,2
+Male,Jr College,Student,5,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,Maybe,0,0,0,1,Maybe,0,0,0,1,0,Not applicable,1,0,0,0,0,0,Read and Igored,1,0,Both,Right,None,0,1,1,1,0,1,0,0,0,0,1,0,1,1,1,8,76%-100%,0%- 25%,0%- 25%,1,1,1,5,1,3,1,5
+Female,School,Student,6,1,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,Yes,Maybe,1,1,1,0,Maybe,1,1,1,0,1,Occasionally,1,0,0,0,0,0,Read and Igored,1,1,None,None,None,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,5,0%- 25%,0%- 25%,0%- 25%,2,4,1,1,1,1,3,5
+Male,Post Graduate,Student,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,No,Yes,1,1,0,1,No,0,0,0,0,1,Occasionally,0,1,0,0,0,0,Read and forward,0,1,Right,None,Both,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,5,0%- 25%,76%- 100%,76%- 100%,3,3,1,1,2,3,4,1
+Female,School,Student,3,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,1,0,Believed and shared,0,0,Left,Right,First,0,1,0,0,0,1,1,1,0,0,0,0,0,1,1,6,26%-50%,26%- 30%,0%- 25%,2,1,1,1,1,1,1,2
+Male,Jr College,Student,3,1,1,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,1,0,Yes,Yes,1,0,0,1,Maybe,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,Second,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,5,51%-75%,26%- 30%,51%- 75%,1,4,3,2,1,2,1,5
+Female,School,Student,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Read and forward,0,0,Both,Left,First,0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,6,0%- 25%,0%- 25%,76%- 100%,3,4,2,4,1,1,1,4
+Female,School,Student,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,No,No,0,0,0,0,Yes,1,0,1,0,0,Not applicable,1,0,0,0,0,0,Igored,1,0,Left,Left,None,0,1,0,1,0,1,1,1,0,0,0,1,0,1,0,7,26%-50%,0%- 25%,0%- 25%,5,5,5,5,5,5,2,5
+Male,Jr College,Student,5,1,1,1,1,0,1,0,0,1,0,0,1,1,0,1,1,0,0,0,1,1,1,0,No,Yes,1,1,1,1,Yes,1,1,1,1,1,Not applicable,1,0,0,0,0.5,0,Read and Igored,1,0,Left,Right,Second,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,6,0%- 25%,0%- 25%,0%- 25%,2,3,2,2,3,1,3,2
+Female,Jr College,Student,6,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,Yes,Maybe,1,1,1,1,Maybe,0,0,1,1,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Both,None,First,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,10,0%- 25%,26%- 30%,0%- 25%,1,2,1,4,2,2,4,4
+Male,Graduate,Student,6,1,1,1,0,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,0,0,1,0,Maybe,Maybe,1,1,1,1,No,0,0,0,0,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,51%-75%,76%- 100%,0%- 25%,4,3,3,4,3,1,3,2
+Male,Jr College,Housewife,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Yes,Yes,1,0,0,1,Yes,1,1,0,0,1,Occasionally,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,7,26%-50%,26%- 30%,51%- 75%,3,3,1,3,3,3,1,3
+Male,Graduate,Private sector,1,1,1,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,Yes,Yes,1,0,1,1,Maybe,1,0,1,1,1,Not applicable,0,0,0,0,0,0.3,Read and Igored,1,0,Left,Left,None,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,51%-75%,76%- 100%,0%- 25%,5,5,1,1,5,5,1,1
+Male,Jr College,Business,3,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,1,1,0,Yes,Maybe,1,0,1,1,Maybe,1,0,0,1,1,Occasionally,1,1,1,0,0.5,0,Read and Igored,1,0,None,Both,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,26%-50%,31%- 75%,26%- 50%,1,3,2,3,2,2,3,4
+Male,Graduate,Private sector,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,Yes,Yes,1,0,0,0,Yes,0,0,1,0,1,Occasionally,0,1,0,0,0,0,Read and Igored,0,0,Right,Left,Second,0,1,1,1,0,1,0,1,0,0,0,1,0,0,1,7,0%- 25%,76%- 100%,76%- 100%,1,4,1,1,1,1,1,1
+Male,Graduate,Student,3,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,Yes,Maybe,1,0,1,0,Yes,1,0,1,0,1,Occasionally,1,1,0,1,0,0,Igored,1,0,Right,Right,None,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,7,76%-100%,26%- 30%,76%- 100%,1,3,1,1,1,1,1,1
+Female,Graduate,Student,6,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,Yes,No,0,0,0,0,Maybe,0,0,0,1,1,Occasionally,0,0,0,1,0,0,Igored,1,0,Right,Left,Second,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,1,1,1,1,1,1,1
+Female,Graduate,Private sector,3,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,1,1,1,0,Maybe,Yes,1,1,1,1,Yes,1,1,1,1,1,Not applicable,0,1,0,0,0,0,Igored,1,0,None,None,None,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1,9,26%-50%,0%- 25%,26%- 50%,2,4,2,3,3,3,4,4
+Male,Post Graduate,Student,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Yes,Yes,0,1,1,0,Maybe,1,0,0,1,0,Not applicable,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,0,0,0,1,0,0,0,1,1,1,1,0,0,1,1,7,26%-50%,26%- 30%,51%- 75%,3,3,1,3,3,3,1,3
+Female,Graduate,Student,5,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,1,1,0,0,1,0,Yes,Maybe,0,1,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,0,0,Igored,1,0,Right,Left,First,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,10,26%-50%,76%- 100%,0%- 25%,1,2,2,4,1,3,3,4
+Male,Graduate,Student,5,1,1,0,1,0,1,1,1,1,0,0,1,1,1,0,1,1,0,0,0,1,0,1,No,Yes,1,0,1,0,Yes,1,1,0,1,1,Occasionally,0,1,0,0,0,0,Read and Igored,1,0,Right,Both,Second,0,1,1,0,1,1,1,0,0,0,0,1,0,0,1,7,26%-50%,0%- 25%,0%- 25%,2,3,3,4,3,2,3,4
+Male,Graduate,Private sector,6,1,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,0,No,Maybe,1,1,1,0,Maybe,0,1,1,0,1,Occasionally,1,0,0,0,0,0,Read and forward,0,0,Left,Left,Both,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,51%-75%,0%- 25%,26%- 50%,1,1,1,1,1,1,1,1
+Male,School,Student,3,0,1,0,0,0,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0,1,1,Maybe,Yes,1,1,1,1,Yes,0,0,1,1,0,Not applicable,1,0,0,0,0,0,Igored,1,1,Both,Right,First,0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,5,0%- 25%,26%- 30%,0%- 25%,1,3,3,1,1,1,1,3
+Female,Jr College,Student,3,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,1,0,0,Maybe,Maybe,1,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Left,Right,None,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,10,76%-100%,0%- 25%,0%- 25%,1,2,2,2,1,1,5,5
+Female,Jr College,Student,6,1,1,1,1,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,Yes,Yes,0,1,1,0,Yes,0,1,1,0,1,Occasionally,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,6,51%-75%,31%- 75%,0%- 25%,3,3,1,3,3,3,1,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Both,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Both,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Student,6,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Maybe,No,0,0,0,0,Maybe,0,0,1,0,1,Daily,1,0,0,0,0,0,Read and Igored,1,0,Right,None,First,1,0,0,1,1,1,0,1,0,0,0,1,1,0,1,7,76%-100%,31%- 75%,76%- 100%,3,3,1,3,3,3,3,2
+Female,Jr College,Private sector,6,1,0,1,0,0,1,1,0,1,0,0,1,1,0,1,1,0,0,1,0,0,0,1,No,Maybe,1,1,1,1,Maybe,1,0,1,0,1,Weekly,0,1,0,0,0,0,Read and Igored,1,0,Both,None,None,0,1,1,1,0,0,1,0,1,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,3,4,2,2,3,2,2,1
+Female,Graduate,Student,3,1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,1,0,0,1,0,Yes,Maybe,1,0,1,1,Maybe,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and forward,0,0,Left,Right,First,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,6,51%-75%,0%- 25%,26%- 50%,2,3,3,1,2,2,2,1
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Both,None,0,0,1,1,0,1,1,0,0,0,0,0,0,1,1,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,0,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Business,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Both,None,0,0,1,1,0,1,0,0,1,0,1,1,1,1,0,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,1,0,0,0,1,1,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,1,0,1,0,0,Igored,0,0,Right,None,Both,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,No,Yes,0,0,0,1,No,0,0,0,0,0,Weekly,1,1,0,0,0,0,Igored,0,0,Right,Both,Both,0,1,1,1,0,0,1,0,0,0,0,1,0,1,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,School,Private sector,6,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,5,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Business,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,0,0,1,1,0,0,0,0,1,1,1,1,7,0%- 25%,0%- 25%,51%- 75%,1,3,3,4,1,1,2,3
+Male,Jr College,Student,3,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,5,26%-50%,31%- 75%,51%- 75%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Public sector,1,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,Yes,1,1,1,1,No,0,0,0,0,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Left,None,0,1,0,0,1,0,1,0,0,0,0,1,1,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,School,Student,6,0,1,1,0,0,1,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,1,0,Yes,Maybe,1,1,0,1,Maybe,1,0,1,1,1,Daily,1,1,0,0,0.5,0.3,Read and forward,1,0,Right,Left,Second,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,9,51%-75%,31%- 75%,51%- 75%,1,3,5,5,1,5,5,5
+Male,School,Student,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,Maybe,Maybe,1,1,1,1,Maybe,1,1,1,1,0,Not applicable,1,1,0,0,0.5,0,Igored,1,0,Left,Right,Both,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,No,0,0,0,0,1,Daily,1,1,1,1,1,0,Believed and shared,1,0,Left,Left,None,0,1,0,0,1,1,1,0,0,1,1,1,0,1,0,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,1,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,No,Maybe,1,1,1,1,Yes,1,1,1,1,0,Not applicable,1,1,0,0,0.5,0,Read and Igored,1,0,Both,Both,Both,1,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,76%- 100%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Jr College,Student,6,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,1,1,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,5,51%-75%,76%- 100%,26%- 50%,1,3,3,4,1,1,2,3
+Male,Graduate,Private sector,5,1,1,1,1,0,0,1,0,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,Yes,Maybe,1,1,0,1,Maybe,1,0,1,1,1,Occasionally,0,1,0,1,0,0,Read and forward,1,0,Left,Right,Second,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,9,51%-75%,0%- 25%,0%- 25%,2,2,1,3,2,1,4,3
+Female,School,Student,3,1,0,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,1,1,1,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,4,51%-75%,76%- 100%,26%- 50%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,First,1,0,1,0,1,1,1,0,1,0,1,1,0,0,0,7,0%- 25%,0%- 25%,26%- 50%,1,3,3,4,1,1,2,3
+Male,School,Housewife,3,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,0,0,0,1,1,0,Maybe,No,0,0,0,0,Maybe,0,0,1,1,1,Occasionally,0,0,0,1,0,0,Not believed still shared,1,0,Both,Right,Second,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,9,51%-75%,0%- 25%,0%- 25%,1,3,2,4,1,1,3,3
+Male,School,Student,3,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,Yes,Yes,1,1,1,1,No,0,0,0,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,26%- 30%,76%- 100%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,0,0,0,1,1,0,No,Yes,1,0,0,1,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Left,None,None,1,1,0,0,1,1,0,1,0,0,1,1,0,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Business,6,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,0,0,No,No,0,0,0,0,Maybe,0,1,1,1,1,Occasionally,1,1,0,0,0.5,0.3,Read and Igored,1,0,Left,Left,Both,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,4,51%-75%,31%- 75%,51%- 75%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Business,3,1,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1,1,0,0,0,1,1,0,Yes,Yes,1,0,1,1,Yes,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Left,Left,Second,1,0,1,1,0,1,1,1,0,0,0,1,1,1,1,9,0%- 25%,0%- 25%,0%- 25%,1,4,2,4,1,1,3,4
+Female,Graduate,Retired,5,1,1,1,0,0,1,1,0,0,1,0,1,0,1,0,1,1,0,0,0,1,1,0,Yes,Yes,1,0,1,1,Yes,1,0,1,1,1,Weekly,1,1,0,0,0.5,0,Read and forward,1,0,Right,Right,Second,1,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,4,2,4,1,1,3,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,3,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,No,Maybe,1,1,1,0,Maybe,0,1,0,0,1,Weekly,1,1,1,1,0.5,0.3,Believed and shared,1,0,Left,Right,None,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0,7,51%-75%,31%- 75%,51%- 75%,1,3,3,4,1,1,2,3
+Female,School,Student,1,1,1,1,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,Maybe,Maybe,0,1,1,1,No,0,0,0,0,1,Occasionally,1,0,1,0,0.5,0,Believed and shared,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,6,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,Yes,Maybe,1,1,0,0,Yes,1,1,1,0,0,Not applicable,1,0,0,0,0.5,0,Igored,1,1,Left,None,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,6,51%-75%,0%- 25%,26%- 50%,1,3,3,4,1,1,2,3
+Female,School,Student,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,Maybe,Yes,1,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0.5,0.3,Believed and shared,0,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,76%-100%,31%- 75%,51%- 75%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Jr College,Unemployed,6,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Weekly,1,1,0,1,1,0.3,Read and forward,1,0,Right,Both,First,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,31%- 75%,26%- 50%,3,2,2,4,2,2,4,4
+Male,Jr College,Private sector,3,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Not applicable,1,1,0,0,0,0,Not believed still shared,0,0,Right,Right,First,0,1,1,1,0,1,1,1,0,0,1,1,0,1,1,10,26%-50%,26%- 30%,26%- 50%,1,2,1,2,1,1,2,1
+Male,Graduate,Private sector,3,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,1,Not applicable,1,0,0,0,0,0,Not believed still shared,1,1,Right,Right,Second,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,4,0%- 25%,0%- 25%,26%- 50%,1,2,1,3,1,1,3,1
+Male,Graduate,Public sector,3,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0,0,Not believed still shared,0,0,Left,Right,First,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,7,26%-50%,26%- 30%,51%- 75%,1,2,1,1,1,1,1,1
+Female,Graduate,Housewife,5,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,Yes,Maybe,1,1,0,1,No,0,0,0,0,1,Occasionally,1,1,0,1,1,0,Believed and shared,0,0,Right,Left,First,1,1,0,1,1,1,1,0,1,0,0,1,0,1,0,8,51%-75%,26%- 30%,51%- 75%,4,1,2,2,4,2,3,1
+Female,Post Graduate,Retired,6,0,0,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,0,0,1,1,0,1,Yes,Yes,1,1,1,1,Yes,1,1,1,1,1,Weekly,0,0,0,1,1,0.3,Believed and shared,1,1,Both,Both,Both,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,4,26%-50%,76%- 100%,26%- 50%,3,1,2,3,3,3,1,3
+Female,Graduate,Business,3,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,Maybe,Maybe,1,0,0,0,Maybe,0,1,1,0,0,Not applicable,0,0,0,1,0.5,0.3,Igored,0,0,Right,Both,First,1,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,31%- 75%,76%- 100%,3,2,2,3,3,2,2,1
+Female,School,Private sector,6,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Yes,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,1,1,1,0,0,Read and Igored,1,0,Both,Both,Both,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3,26%-50%,31%- 75%,51%- 75%,3,2,2,3,4,3,2,1
+Male,Jr College,Student,6,0,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Left,None,Both,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,5,26%-50%,31%- 75%,51%- 75%,2,1,2,1,3,3,1,2
+Female,Graduate,Housewife,6,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,No,0,0,0,0,Yes,1,1,1,1,1,Weekly,1,1,1,1,1,1,Believed and shared,1,0,Right,Both,First,1,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,76%- 100%,26%- 50%,3,4,2,2,1,1,3,4
+Female,Jr College,Public sector,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,1,1,0,0,1,Yes,No,0,0,0,0,No,0,0,0,0,0,Not applicable,1,0,0,0,0.5,1,Believed and shared,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,76%- 100%,26%- 50%,5,5,2,4,3,5,2,5
+Female,School,Student,3,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,0,1,Yes,No,0,0,0,0,Maybe,1,1,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,6,26%-50%,31%- 75%,26%- 50%,5,5,2,5,1,5,2,3
+Female,School,Housewife,3,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,0,1,0,0,1,Weekly,0,0,1,0,1,0.3,Believed and shared,1,1,Right,Both,First,1,0,0,1,0,1,0,1,0,1,0,1,0,0,0,5,76%-100%,31%- 75%,26%- 50%,4,3,5,5,1,4,2,5
+Female,School,Student,3,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,31%- 75%,51%- 75%,3,5,4,4,4,3,5,1
+Male,Jr College,Private sector,6,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Daily,1,1,1,1,1,1,Believed and shared,1,0,Right,Left,First,1,1,0,1,0,1,1,0,0,1,0,1,0,1,0,7,26%-50%,26%- 30%,0%- 25%,3,2,2,5,3,4,5,1
+Female,Graduate,Business,1,1,1,1,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,1,1,1,1,Yes,No,0,0,0,0,Yes,1,1,1,1,1,Daily,0,0,0,1,1,0.3,Igored,1,0,Right,Left,Both,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,6,51%-75%,31%- 75%,51%- 75%,3,2,4,5,4,4,2,3
+Female,School,Student,3,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0,1,Maybe,Maybe,1,1,0,1,No,0,0,0,0,0,Not applicable,0,0,0,1,1,0.3,Not believed still shared,1,0,Left,Both,First,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,4,51%-75%,26%- 30%,26%- 50%,4,3,2,5,2,4,1,4
+Female,Graduate,Business,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,Yes,No,0,0,0,0,Yes,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,26%- 30%,51%- 75%,4,2,3,5,3,2,2,2
+Female,School,Student,6,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Yes,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,0,0,0,1,1,Not believed still shared,1,0,Right,Left,Both,1,1,0,0,1,1,0,1,0,0,0,1,1,1,0,7,51%-75%,76%- 100%,76%- 100%,4,3,2,5,1,4,4,5
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Private sector,6,1,1,1,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Right,Both,First,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,5,51%-75%,26%- 30%,76%- 100%,4,3,3,5,3,3,5,5
+Female,School,Student,3,1,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,1,1,1,0,Maybe,No,0,0,0,0,Maybe,1,0,1,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,6,26%-50%,76%- 100%,0%- 25%,1,3,3,4,1,1,2,3
+Male,School,Student,1,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,0,1,0,0,1,Yes,No,0,0,0,0,No,0,0,0,0,1,Weekly,1,1,0,1,1,0,Read and Igored,1,0,Both,Right,Second,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,4,51%-75%,26%- 30%,26%- 50%,3,1,1,1,1,3,3,1
+Female,Post Graduate,Retired,6,0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Maybe,Maybe,1,1,1,1,Maybe,1,1,0,1,0,Not applicable,0,0,0,1,0.5,0.3,Believed and shared,1,0,Left,Left,Both,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,5,51%-75%,31%- 75%,0%- 25%,5,2,2,3,5,4,4,4
+Female,Graduate,Housewife,3,0,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,76%-100%,76%- 100%,76%- 100%,4,5,2,4,1,5,4,2
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,Yes,No,0,0,0,0,Maybe,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,5,51%-75%,76%- 100%,51%- 75%,1,3,4,4,1,1,2,3
+Female,Jr College,Student,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,0,0,0,1,0,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,76%- 100%,51%- 75%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,1,1,0,1,Daily,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,None,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Public sector,5,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,4,3,3,1,1,1,5,4
+Male,Graduate,Student,6,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Weekly,0,1,0,0,0,0.3,Read and Igored,1,1,Right,Both,First,1,0,0,1,0,1,0,0,1,0,0,1,1,1,1,7,0%- 25%,26%- 30%,26%- 50%,1,1,1,1,1,1,1,1
+Female,Graduate,Private sector,5,1,1,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,0,Maybe,Maybe,1,1,1,1,Maybe,1,1,1,1,1,Daily,1,1,0,0,0,0,Read and forward,1,0,Left,Right,None,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,13,51%-75%,0%- 25%,76%- 100%,1,3,2,4,1,1,3,3
+Female,Graduate,Private sector,5,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,Yes,Maybe,1,0,1,0,Maybe,0,0,1,1,1,Occasionally,0,1,0,1,0,0,Read and Igored,1,0,Left,Right,First,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,10,76%-100%,0%- 25%,76%- 100%,1,2,2,2,1,1,4,3
+Female,Graduate,Housewife,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,No,Maybe,0,0,0,1,Maybe,0,0,1,0,1,Occasionally,0,1,1,0,0,0,Read and forward,1,0,Left,Both,Both,0,1,1,0,1,1,1,1,0,0,0,1,0,1,1,9,0%- 25%,0%- 25%,0%- 25%,2,3,2,3,1,1,2,5
+Female,Post Graduate,Private sector,5,0,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,No,Yes,1,0,0,1,Yes,0,0,0,1,1,Occasionally,0,1,0,0,0,0,Igored,1,0,None,Right,First,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,10,76%-100%,31%- 75%,51%- 75%,1,4,1,3,1,1,2,4
+Female,Graduate,Private sector,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,Maybe,Maybe,1,0,1,0,Maybe,0,0,0,1,1,Occasionally,0,0,0,1,0,0,Igored,1,0,Right,Right,Second,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,5,0%- 25%,0%- 25%,0%- 25%,2,2,2,2,1,1,1,1
+Female,Graduate,Housewife,6,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Yes,No,0,0,0,0,No,0,0,0,0,0,Weekly,1,0,0,0,0,0,Read and Igored,1,0,Left,Right,First,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,4,26%-50%,26%- 30%,0%- 25%,1,1,2,2,2,2,2,3
+Male,Graduate,Private sector,6,1,1,1,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1,1,0,0,0,0,Yes,Yes,1,0,1,1,Maybe,1,0,1,1,1,Not applicable,1,0,0,0,0,0,Igored,1,0,Both,None,First,1,1,0,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,0%- 25%,0%- 25%,4,5,3,5,3,4,1,5
+Female,Post Graduate,Private sector,6,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,0,0,1,0,0,Igored,0,0,Right,Right,Second,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,4,76%-100%,0%- 25%,76%- 100%,4,4,4,4,4,4,4,4
+Female,Jr College,Student,3,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,0,0,1,1,1,No,Maybe,1,1,0,1,Maybe,1,1,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,0%- 25%,26%- 50%,2,3,1,5,2,4,5,2
+Male,School,Student,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,0,1,1,1,0,Maybe,Maybe,1,0,0,0,Maybe,1,1,0,0,1,Weekly,1,1,0,1,1,1,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,31%- 75%,26%- 50%,3,2,4,1,2,3,4,2
+Female,School,Student,3,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,1,1,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,1,1,1,0,1,8,76%-100%,0%- 25%,51%- 75%,1,3,3,4,1,1,2,3
+Female,School,Private sector,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,26%- 30%,51%- 75%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,Maybe,1,0,0,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,School,Student,3,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Private sector,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Maybe,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,0,0,0,0,0,Read and Igored,1,0,None,None,None,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,6,51%-75%,76%- 100%,76%- 100%,1,5,5,5,1,5,1,1
+Male,Graduate,Unemployed,5,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,1,1,1,Yes,Yes,1,1,1,0,Yes,1,1,1,0,1,Occasionally,1,1,0,0,0,0,Igored,1,0,Both,Left,First,0,1,1,1,0,1,0,0,1,0,0,1,1,1,1,9,51%-75%,0%- 25%,76%- 100%,1,5,4,5,3,5,4,5
+Male,Graduate,Private sector,6,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,Yes,Yes,0,0,1,0,Yes,0,0,1,0,1,Occasionally,0,0,0,0,0,0,Read and Igored,1,0,Right,Right,None,0,1,0,1,0,1,0,0,0,0,0,1,1,0,1,6,51%-75%,31%- 75%,0%- 25%,3,2,3,2,3,3,2,3
+Female,Graduate,Business,6,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,Yes,Maybe,1,0,1,0,Maybe,1,0,0,1,1,Not applicable,1,1,0,0,0,0,Read and forward,1,0,None,Right,First,0,1,1,1,0,1,1,0,1,0,0,1,1,0,1,9,0%- 25%,0%- 25%,0%- 25%,1,3,3,3,1,4,1,3
+Female,School,Student,3,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,1,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,0,1,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,26%- 30%,26%- 50%,4,3,5,4,2,3,4,5
+Male,School,Student,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0,0,1,Maybe,Maybe,1,1,0,0,Yes,1,1,0,1,0,Not applicable,1,0,0,0,1,1,Believed and shared,1,1,Right,Left,Both,1,1,0,1,1,1,0,1,0,0,0,1,1,0,0,7,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Private sector,6,1,0,0,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,Maybe,Maybe,1,1,0,1,Yes,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,76%-100%,31%- 75%,26%- 50%,2,3,2,4,1,1,4,1
+Male,School,Student,6,1,1,1,1,0,0,0,1,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,Maybe,Maybe,1,1,0,1,Maybe,0,1,1,0,0,Not applicable,1,1,0,1,1,0,Igored,1,0,Left,Right,Both,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,9,76%-100%,26%- 30%,26%- 50%,4,3,5,4,1,1,5,1
+Female,Graduate,Business,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,Maybe,Maybe,0,0,1,0,Yes,0,0,1,0,1,Weekly,1,1,0,0,0,0.3,Believed and shared,0,0,None,None,None,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,5,51%-75%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Jr College,Student,3,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,26%- 30%,76%- 100%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Jr College,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Business,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,1,1,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,4,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Housewife,1,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,26%- 30%,26%- 50%,1,3,3,4,1,1,2,3
+Male,School,Student,6,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Jr College,Student,3,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,6,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,31%- 75%,51%- 75%,1,4,1,4,4,4,2,3
+Male,Post Graduate,Student,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,Yes,Yes,1,1,0,0,Maybe,0,0,0,1,1,Daily,1,0,0,0,1,0,Not believed still shared,1,1,Both,Right,None,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,5,26%-50%,26%- 30%,51%- 75%,4,2,3,5,4,2,3,5
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,No,0,0,0,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,1
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Business,1,1,1,1,1,0,0,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Left,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,31%- 75%,51%- 75%,4,3,2,2,4,1,2,5
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,6,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,1,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Graduate,Housewife,6,0,1,1,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,26%- 30%,51%- 75%,1,3,3,1,1,1,2,3
+Female,Graduate,Housewife,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,1,1,0,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Both,Second,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,5,26%-50%,0%- 25%,0%- 25%,4,3,3,4,1,1,2,3
+Male,School,Student,3,0,0,1,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Maybe,Maybe,1,0,0,1,Maybe,1,0,0,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,31%- 75%,51%- 75%,4,3,5,5,5,1,2,3
+Male,School,Student,3,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,1,0,1,1,0,No,Yes,1,1,1,1,Yes,1,1,1,1,1,Daily,1,1,1,0,1,1,Read and Igored,1,0,Both,Left,Second,0,0,0,1,1,0,1,1,0,0,0,0,1,1,1,7,26%-50%,26%- 30%,0%- 25%,2,2,2,2,1,2,1,1
+Female,Jr College,Student,5,1,1,1,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,1,No,No,0,0,0,0,Maybe,0,0,0,1,1,Weekly,1,0,1,1,0.5,0.3,Not believed still shared,1,0,Left,Right,First,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,5,0%- 25%,0%- 25%,0%- 25%,1,2,4,2,1,2,4,2
+Female,Post Graduate,Student,6,1,1,1,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,1,0,0,0,0,Read and Igored,0,0,Right,Right,Second,0,1,1,1,0,1,0,1,1,1,1,0,1,1,1,11,26%-50%,26%- 30%,51%- 75%,3,1,2,3,2,1,3,2
+Female,Graduate,Student,6,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,No,No,0,0,0,0,No,0,0,0,0,0,Not applicable,0,1,0,0,0,0,Read and Igored,0,0,Left,Left,Both,0,1,1,0,1,1,1,1,1,0,1,0,1,1,1,11,26%-50%,26%- 30%,26%- 50%,1,2,3,1,1,1,2,2
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Graduate,Business,3,0,1,1,1,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,1,1,1,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,26%- 30%,26%- 50%,4,3,5,4,1,1,5,3
+Female,Jr College,Student,3,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,1,0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,8,51%-75%,31%- 75%,26%- 50%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,3,0,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,51%- 75%,1,3,3,4,1,1,2,3
+Male,Jr College,Student,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,No,Yes,1,0,0,1,Yes,1,1,0,1,1,Occasionally,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,6,26%-50%,26%- 30%,51%- 75%,3,3,1,3,3,3,1,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Yes,Yes,0,1,1,0,Yes,1,1,0,1,1,Occasionally,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,7,26%-50%,26%- 30%,51%- 75%,3,3,1,3,3,3,1,3
+Male,Jr College,Unemployed,6,1,1,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,Yes,Yes,1,0,0,1,Yes,1,1,0,1,1,Occasionally,1,1,1,0,1,1,Not believed still shared,1,1,Left,Left,Second,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,3,3,1,3,3,3,2,3
+Female,Graduate,Housewife,1,0,1,1,1,0,0,1,1,1,0,1,0,0,1,1,1,1,0,0,1,1,1,1,No,Maybe,1,1,0,1,Maybe,1,1,0,1,0,Not applicable,1,1,0,0,0.5,0.3,Igored,0,0,Right,Left,Both,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,4,51%-75%,31%- 75%,26%- 50%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,2,4
+Female,Jr College,Student,1,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Maybe,Maybe,1,1,0,0,Maybe,0,1,0,1,1,Weekly,1,1,0,1,1,1,Read and Igored,1,0,Both,Right,Both,1,0,0,1,1,1,0,0,0,0,1,0,1,1,1,7,51%-75%,0%- 25%,51%- 75%,1,4,5,4,1,5,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,2,4
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,3,4
+Male,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,0,7,0%- 25%,0%- 25%,76%- 100%,1,3,3,4,1,1,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,3,4
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,3,4
+Female,School,Student,3,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,4,3,3,4,1,1,2,2
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,2,4
+Female,Jr College,Student,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,0,1,1,0,0,Maybe,Maybe,1,1,0,1,Maybe,1,1,0,0,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,1,0,0,0,1,0,1,0,1,0,0,0,5,51%-75%,26%- 30%,51%- 75%,1,3,5,4,5,1,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,2,4
+Female,Graduate,Private sector,6,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,Yes,No,0,0,0,0,Yes,1,1,0,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,6,26%-50%,0%- 25%,26%- 50%,1,3,3,5,5,1,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,2,4
+Female,Jr College,Student,1,1,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1,1,Yes,Yes,1,0,0,1,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,76%-100%,26%- 30%,26%- 50%,4,3,5,4,1,1,2,5
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,76%- 100%,1,3,2,4,1,1,2,4
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,Yes,1,0,0,1,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,26%- 50%,1,3,3,4,1,1,2,3
+Male,School,Student,3,0,1,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,Yes,Yes,0,1,0,0,Yes,1,1,0,0,1,Daily,1,1,0,0,1,0.3,Not believed still shared,1,0,Both,Right,Second,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,3,51%-75%,31%- 75%,51%- 75%,1,3,3,4,1,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,26%-50%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,Jr College,Student,6,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,31%- 75%,26%- 50%,1,3,3,1,5,1,2,3
+Female,Graduate,Housewife,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,Yes,Yes,1,0,1,1,Yes,1,1,0,1,1,Occasionally,1,1,0,1,1,1,Believed and shared,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,26%- 30%,51%- 75%,1,3,3,4,1,1,2,3
+Female,School,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,6,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Private sector,6,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Yes,1,0,1,0,1,Occasionally,1,1,1,0,0.5,0.3,Not believed still shared,1,0,Right,Left,First,1,1,0,0,0,1,1,0,1,0,0,1,1,0,0,6,26%-50%,31%- 75%,26%- 50%,1,5,3,4,5,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Female,School,Student,3,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,0,1,1,1,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,51%-75%,31%- 75%,76%- 100%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Post Graduate,Student,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,Maybe,Maybe,0,1,1,0,Yes,1,1,1,0,1,Weekly,1,1,1,1,1,1,Believed and shared,1,0,Left,Right,Both,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,3,26%-50%,26%- 30%,26%- 50%,1,3,5,5,1,5,2,3
+Female,Graduate,Housewife,6,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,1,0,0,0,1,1,0,No,Yes,1,1,0,1,Yes,1,1,0,1,0,Daily,1,1,1,0,1,1,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,0,7,51%-75%,31%- 75%,26%- 50%,1,3,3,2,3,1,2,3
+Female,Post Graduate,Student,5,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Yes,No,0,0,0,0,Maybe,1,0,0,1,1,Occasionally,1,1,0,0,0,0,Read and Igored,1,0,Both,Right,Second,0,0,1,1,0,1,1,0,0,0,0,1,1,1,1,8,0%- 25%,0%- 25%,0%- 25%,1,3,3,4,1,1,2,3
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,2,4
+Male,Graduate,Student,5,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,Maybe,Yes,1,0,1,1,Yes,1,0,1,1,0,Not applicable,1,1,0,0,0,0,Read and Igored,1,0,Right,Right,First,0,1,1,1,0,1,1,0,0,0,0,1,1,1,1,9,0%- 25%,26%- 30%,0%- 25%,1,3,2,4,1,1,3,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
